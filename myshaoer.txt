@@ -1,5 +1,19 @@
 我的少儿,#genre#
+CCTV14,http://111.43.126.240:9003/hls/27/index.m3u8
+CCTV14,http://z.b.bkpcp.top/m.php?id=cctv14
 卡酷少儿,http://111.43.126.240:9003/hls/71/index.m3u8
 炫动卡通,http://111.43.126.240:9003/hls/72/index.m3u8
 金鹰卡通,http://111.43.126.240:9003/hls/73/index.m3u8
 优漫卡通,http://111.43.126.240:9003/hls/74/index.m3u8
+嘉佳卡通,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=wasusyt&Contentid=6000000003000025508&livemode=1&stbId=toShengfen&mode=1&$2M SD
+内蒙古少儿,http://play1-qk.nmtv.cn/live/1686560464515368.m3u8
+浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+浙江少儿,http://ali-vl.cztv.com/channels/lantian/channel008/360p.m3u8?a=1000&amp;d=83b26bacf5397c013aff782b2c4287d0&amp;k=c99bdac76cff6ddc27e750ba689b7d5b&amp;t=1704368408
+浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?
+浙江少儿,https://ct-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8#https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8#http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8#https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?
+浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?#https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8#http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+猫和老鼠,https://live.iill.top/huya/11352879
+猫和老鼠,http://live.iill.top/huya.php?id=11352879
+七龙珠,https://live.iill.top/huya/11601966
+中华小当家,https://live.iill.top/huya/11342413
+
