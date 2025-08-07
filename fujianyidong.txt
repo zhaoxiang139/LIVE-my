@@ -88,10 +88,6 @@ CCTV13[1920*1080],http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/32
 CCTV13[1920*1080],http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221227237/index.m3u8
 CCTV13[1920*1080],http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221227279/index.m3u8
 CCTV13[1920*1080],http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221225817/index.m3u8
-CCTV14[1920*1080],http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221225819/index.m3u8
-CCTV14[1920*1080],http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221225933/index.m3u8
-CCTV14[1920*1080],http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221225819/index.m3u8
-CCTV14[1920*1080],http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221225933/index.m3u8
 CCTV15[1920*1080],http://fjcm-2115.live.iptv.darwinchow.com/PLTV/88888888/224/3221225818/index.m3u8
 CCTV15[1920*1080],http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221225818/index.m3u8
 CCTV15[1920*1080],http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221227270/index.m3u8
@@ -238,8 +234,6 @@ CGTN俄语[1024*576],http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224
 黑龙江卫视[1920*1080],http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221225862/index.m3u8
 
 NewTV,#genre#
-黑莓动画[1920*1080],http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221227303/index.m3u8
-黑莓动画[1920*1080],http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227303/index.m3u8
 黑莓电影[1920*1080],http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227448/index.m3u8
 中国功夫[1920*1080],http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227473/index.m3u8
 军事评论[1920*1080],http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227452/index.m3u8
@@ -278,18 +272,12 @@ NewTV,#genre#
 中国天气[1920*1080],http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227210/index.m3u8
 优优宝贝[1920*1080],http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227367/index.m3u8
 北京纪实科教[1920*1080],http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221225944/index.m3u8
-卡酷少儿[1024*576],http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227456/index.m3u8
-哈哈炫动[1024*576],http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221227335/index.m3u8
-哈哈炫动[768*576],http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221227335/index.m3u8
-嘉佳卡通[768*576],http://fjcm-2116.live.iptv.darwinchow.com/PLTV/88888888/224/3221227230/index.m3u8
 山东教育[1024*576],http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227474/index.m3u8
 快乐垂钓[1920*1080],http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221226940/index.m3u8
 快乐垂钓[1920*1080],http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221226940/index.m3u8
-新动漫[1920*1080],http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227498/index.m3u8
 环球奇观[1920*1080],http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227490/index.m3u8
 生态环境[1920*1080],http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227494/index.m3u8
 中华特产1920*1080],http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227502/index.m3u8
-优漫卡通[1024*576],http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221227339/index.m3u8
 先锋乒羽[768*576],http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221226851/index.m3u8
 先锋乒羽[785*576],http://fjcm-2115.live.iptv.darwinchow.com/PLTV/88888888/224/3221226851/index.m3u8
 先锋乒羽[785*576],http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221226851/index.m3u8
