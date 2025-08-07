@@ -34,7 +34,6 @@ CCTV10,http://111.43.126.240:9003/hls/23/index.m3u8
 CCTV11,http://111.43.126.240:9003/hls/24/index.m3u8
 CCTV12,http://111.43.126.240:9003/hls/25/index.m3u8
 CCTV13,http://111.43.126.240:9003/hls/26/index.m3u8
-CCTV14,http://111.43.126.240:9003/hls/27/index.m3u8
 CCTV15,http://111.43.126.240:9003/hls/28/index.m3u8
 CCTV16,http://111.43.126.240:9003/hls/29/index.m3u8
 CCTV17,http://111.43.126.240:9003/hls/30/index.m3u8
@@ -74,10 +73,7 @@ CETV-4,http://111.43.126.240:9003/hls/36/index.m3u8
 宁夏卫视,http://111.43.126.240:9003/hls/67/index.m3u8
 陕西卫视,http://111.43.126.240:9003/hls/68/index.m3u8
 甘肃卫视,http://111.43.126.240:9003/hls/70/index.m3u8
-卡酷少儿,http://111.43.126.240:9003/hls/71/index.m3u8
-炫动卡通,http://111.43.126.240:9003/hls/72/index.m3u8
-金鹰卡通,http://111.43.126.240:9003/hls/73/index.m3u8
-优漫卡通,http://111.43.126.240:9003/hls/74/index.m3u8
+
 NewTV,#genre#
 动作电影,http://111.43.126.240:9003/hls/75/index.m3u8
 爱情喜剧,http://111.43.126.240:9003/hls/76/index.m3u8
@@ -104,7 +100,6 @@ NewTV,#genre#
 精品综艺,http://111.43.126.240:9003/hls/97/index.m3u8
 热播精选,http://111.43.126.240:9003/hls/98/index.m3u8
 黑莓电影,http://111.43.126.240:9003/hls/99/index.m3u8
-黑莓动画,http://111.43.126.240:9003/hls/100/index.m3u8
 哒啵赛事,http://111.43.126.240:9003/hls/101/index.m3u8
 炫舞未来,http://111.43.126.240:9003/hls/102/index.m3u8
 咪咕精彩足球,http://111.43.126.240:9003/hls/103/index.m3u8
@@ -126,7 +121,6 @@ NewTV,#genre#
 浙江,#genre#
 中国教育1台,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
 浙江国际,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
-浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 浙江教科影视,https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
 之江纪录,https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
 浙江民生休闲,https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
@@ -138,17 +132,10 @@ NewTV,#genre#
 内蒙古蒙语,http://play1-qk.nmtv.cn/live/1686560387346365.m3u8
 内蒙古文化,http://play1-qk.nmtv.cn/live/1686561065304370.m3u8
 内蒙古新闻综合,http://play1-qk.nmtv.cn/live/1686560423879174.m3u8
-内蒙古少儿,http://play1-qk.nmtv.cn/live/1686560464515368.m3u8
 内蒙古文体娱乐,http://play1-qk.nmtv.cn/live/1686561195713372.m3u8
 内蒙古经济生活,http://play1-qk.nmtv.cn/live/1686562470947181.m3u8
 
 吉林,#genre#
-吉林卫视,https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/0533b55e42354f4f802bdec78e26b571/1.m3u8
-吉林都市,https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/7e8474e6daea44ccaa5aa2300191439e/1.m3u8
-吉林影视,https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/906341e6f19b4c4bacdc89941eb85d12/1.m3u8
-吉林生活,https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/0a76740c72b74fabae611845aa21e06a/1.m3u8
-吉林乡村,https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/3ffc4824dce54b92be185555923ce382/1.m3u8
-吉林综艺文化,https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/b3925adaf01e41f287f482f0aea3d233/1.m3u8
 延边卫视,https://srs.iyb983.cn/video/CYS/index.m3u8
 
 
