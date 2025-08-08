@@ -156,7 +156,7 @@ NewTV,#genre#
 咪咕精彩体育,http://111.43.126.240:9003/hls/104/index.m3u8
 
 山西,#genre#
-怀仁综合频道,http://1yp7hc5p.live.sxmty.com/live/hls/bff8529922344209985b6e49baa9555a/efa2543628fc4a7ea93d3d6c975f77dc.m3u8
+怀仁综合,http://1yp7hc5p.live.sxmty.com/live/hls/bff8529922344209985b6e49baa9555a/efa2543628fc4a7ea93d3d6c975f77dc.m3u8?zshanxd
 五台综合,https://568slnjf.live.sxmty.com/live/hls/90c8b2efeb164cc0a6c2409eed668d6b/f77cbb89ec57435b9ba4c47589c16e4f-1.m3u8
 晋中公共频道,http://jzlive.jztvnews.com:90/live/jzgg.m3u8
 晋中新闻频道,http://jzlive.jztvnews.com:90/live/jzzh.m3u8 
