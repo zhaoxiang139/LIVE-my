@@ -1,24 +1,4 @@
 #EXTM3U x-tvg-url="https://11.112114.xyz/pp.xml"
-#EXTINF:-1,tvg-id="少儿4K" tvg-name="少儿4K" tvg-logo="https://11.112114.xyz/logo/bestv4k.png" group-title="4K频道",少儿4K-主力
-https://mursor.ottiptv.cc/bst/sepd4k@15000000.m3u8
-#EXTINF:-1,tvg-id="IPTV少儿动画" tvg-name="IPTV少儿动画" tvg-logo="https://11.112114.xyz/logo/CCTV14.png" group-title="主力-央视",CCTV-少儿HD-主力
-https://mursor.ottiptv.cc/bst/cctvsehd@4000000.m3u8
-#EXTINF:-1,tvg-id="卡酷卡通" tvg-name="卡酷卡通" tvg-logo="https://11.112114.xyz/logo/卡酷卡通.png" group-title="主力-其他",卡酷卡通-主力
-https://mursor.ottiptv.cc/bst/kkkt@1300000.m3u8
-#EXTINF:-1,tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://11.112114.xyz/logo/卡酷少儿.png" group-title="主力-其他",卡酷少儿HD-主力
-https://mursor.ottiptv.cc/bst/kkkt2d5m@2500000.m3u8
-#EXTINF:-1,tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://11.112114.xyz/logo/金鹰卡通.png" group-title="主力-其他",金鹰卡通-主力
-https://mursor.ottiptv.cc/bst/jykt@1300000.m3u8
-#EXTINF:-1,tvg-id="嘉佳卡通" tvg-name="嘉佳卡通" tvg-logo="https://11.112114.xyz/logo/嘉佳卡通.png" group-title="主力-其他",嘉佳卡通-主力
-https://mursor.ottiptv.cc/bst/jjkt@1300000.m3u8
-#EXTINF:-1,tvg-id="哈哈炫动" tvg-name="哈哈炫动" tvg-logo="https://11.112114.xyz/logo/哈哈炫动.png" group-title="主力-其他",哈哈炫动HD-主力
-https://mursor.ottiptv.cc/bst/hhxdhd@4000000.m3u8
-#EXTINF:-1,tvg-id="动漫秀场" tvg-name="动漫秀场" tvg-logo="https://11.112114.xyz/logo/动漫秀场.png" group-title="主力-其他",动漫秀场HD-主力
-https://mursor.ottiptv.cc/bst/dmxchd@4000000.m3u8
-#EXTINF:-1,tvg-id="宝宝动画HD" tvg-name="宝宝动画HD" tvg-logo="https://11.112114.xyz/logo/宝宝动画.png" group-title="主力-其他",宝宝动画HD-主力
-https://mursor.ottiptv.cc/bst/bbdhvcc4m@4000000.m3u8
-#EXTINF:-1,tvg-id="青春动漫HD" tvg-name="青春动漫HD" tvg-logo="https://11.112114.xyz/logo/青春动漫.png" group-title="主力-其他",青春动漫HD-主力
-https://mursor.ottiptv.cc/bst/qcdmvcc4m@4000000.m3u8
 #EXTINF:-1 tvg-name="4K60PSDR-H264-AAC测试" tvg-logo="https://cdn.jsdelivr.net/gh/feiyang666999/testvideo/tg.jpg" group-title="4K频道",4K60PSDR-H264-AAC测试
 https://cdn.jsdelivr.net/gh/feiyang666999/testvideo/sdr4kvideo/playlist.m3u8
 #EXTINF:-1 tvg-name="4K60PHLG-HEVC-EAC3测试" tvg-logo="https://cdn.jsdelivr.net/gh/feiyang666999/testvideo/tg.jpg" group-title="4K频道",4K60PHLG-HEVC-EAC3测试
@@ -27,6 +7,8 @@ https://cdn.jsdelivr.net/gh/feiyang666999/testvideo/hlg4kvideo/playlist.m3u8
 https://mursor.ottiptv.cc/bst/sjpd4k@15000000.m3u8
 #EXTINF:-1,tvg-id="电影4K" tvg-name="电影4K" tvg-logo="https://11.112114.xyz/logo/bestv4k.png" group-title="4K频道",电影4K-主力
 https://mursor.ottiptv.cc/bst/dypd4k@15000000.m3u8
+#EXTINF:-1,tvg-id="少儿4K" tvg-name="少儿4K" tvg-logo="https://11.112114.xyz/logo/bestv4k.png" group-title="4K频道",少儿4K-主力
+https://mursor.ottiptv.cc/bst/sepd4k@15000000.m3u8
 #EXTINF:-1,tvg-id="欢笑剧场4K" tvg-name="欢笑剧场4K" tvg-logo="https://11.112114.xyz/logo/欢笑剧场.png" group-title="4K频道",欢笑剧场4K-主力
 https://mursor.ottiptv.cc/bst/hxjc4k@15000000.m3u8
 #EXTINF:-1,tvg-id="cctv4k" tvg-name="cctv4k" tvg-logo="https://11.112114.xyz/logo/cctv4k.png" group-title="4K频道",cctv4k-主力
@@ -281,6 +263,8 @@ https://mursor.ottiptv.cc/bst/cctv11hd4m@4000000.m3u8
 https://mursor.ottiptv.cc/bst/cctv12hd4m@4000000.m3u8
 #EXTINF:-1,tvg-id="BTV新闻" tvg-name="BTV新闻" tvg-logo="https://11.112114.xyz/logo/CCTV13.png" group-title="主力-央视",CCTV-新闻HD-主力
 https://mursor.ottiptv.cc/bst/cctv13hd4m@4000000.m3u8
+#EXTINF:-1,tvg-id="IPTV少儿动画" tvg-name="IPTV少儿动画" tvg-logo="https://11.112114.xyz/logo/CCTV14.png" group-title="主力-央视",CCTV-少儿HD-主力
+https://mursor.ottiptv.cc/bst/cctvsehd@4000000.m3u8
 #EXTINF:-1,tvg-id="动感音乐" tvg-name="动感音乐" tvg-logo="https://11.112114.xyz/logo/CCTV15.png" group-title="主力-央视",CCTV-音乐HD-主力
 https://mursor.ottiptv.cc/bst/cctvyyhd4m@4000000.m3u8
 #EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://11.112114.xyz/logo/CCTV16.png" group-title="主力-央视",CCTV-16HD-主力
@@ -349,6 +333,22 @@ https://mursor.ottiptv.cc/bst/jlwshd4m@4000000.m3u8
 https://mursor.ottiptv.cc/bst/jxwshd@4000000.m3u8
 #EXTINF:-1,tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://11.112114.xyz/logo/金鹰纪实.png" group-title="主力-其他",金鹰纪实HD-主力
 https://mursor.ottiptv.cc/bst/jyjs8m@8000000.m3u8
+#EXTINF:-1,tvg-id="卡酷卡通" tvg-name="卡酷卡通" tvg-logo="https://11.112114.xyz/logo/卡酷卡通.png" group-title="主力-其他",卡酷卡通-主力
+https://mursor.ottiptv.cc/bst/kkkt@1300000.m3u8
+#EXTINF:-1,tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://11.112114.xyz/logo/卡酷少儿.png" group-title="主力-其他",卡酷少儿HD-主力
+https://mursor.ottiptv.cc/bst/kkkt2d5m@2500000.m3u8
+#EXTINF:-1,tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://11.112114.xyz/logo/金鹰卡通.png" group-title="主力-其他",金鹰卡通-主力
+https://mursor.ottiptv.cc/bst/jykt@1300000.m3u8
+#EXTINF:-1,tvg-id="嘉佳卡通" tvg-name="嘉佳卡通" tvg-logo="https://11.112114.xyz/logo/嘉佳卡通.png" group-title="主力-其他",嘉佳卡通-主力
+https://mursor.ottiptv.cc/bst/jjkt@1300000.m3u8
+#EXTINF:-1,tvg-id="哈哈炫动" tvg-name="哈哈炫动" tvg-logo="https://11.112114.xyz/logo/哈哈炫动.png" group-title="主力-其他",哈哈炫动HD-主力
+https://mursor.ottiptv.cc/bst/hhxdhd@4000000.m3u8
+#EXTINF:-1,tvg-id="动漫秀场" tvg-name="动漫秀场" tvg-logo="https://11.112114.xyz/logo/动漫秀场.png" group-title="主力-其他",动漫秀场HD-主力
+https://mursor.ottiptv.cc/bst/dmxchd@4000000.m3u8
+#EXTINF:-1,tvg-id="宝宝动画HD" tvg-name="宝宝动画HD" tvg-logo="https://11.112114.xyz/logo/宝宝动画.png" group-title="主力-其他",宝宝动画HD-主力
+https://mursor.ottiptv.cc/bst/bbdhvcc4m@4000000.m3u8
+#EXTINF:-1,tvg-id="青春动漫HD" tvg-name="青春动漫HD" tvg-logo="https://11.112114.xyz/logo/青春动漫.png" group-title="主力-其他",青春动漫HD-主力
+https://mursor.ottiptv.cc/bst/qcdmvcc4m@4000000.m3u8
 #EXTINF:-1,tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://11.112114.xyz/logo/辽宁卫视.png" group-title="主力-卫视",辽宁卫视HD-主力
 https://mursor.ottiptv.cc/bst/lnwshd@4000000.m3u8
 #EXTINF:-1,tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://11.112114.xyz/logo/深圳卫视.png" group-title="主力-卫视",深圳卫视HD-主力
