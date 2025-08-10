@@ -47,6 +47,8 @@ https://mursor.ottiptv.cc/migu/667987558.m3u8?migutoken=9e10e5bd3958ca5f6cbfd564
 https://mursor.ottiptv.cc/migu/673168185.m3u8?migutoken=60b81070b1ec320d3c9578d7fb125ee6f707dcbbef4e7da8b308455835db7642dd0894898fc043ee3256a339a585f0de82efdf32a33621fb37d5a285828ab3da4e372e9326e1be2e5939b8ecc6
 #EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/2202/208/864/202204010051_2202208864_H169_1080.jpg" group-title="央视", CCTV13新闻
 https://mursor.ottiptv.cc/migu/608807423.m3u8?migutoken=05dc572e56c646cc5ab8fe010373535d64a35afc010165df59fece572bdb88f3584ca466285847492e77d4dccf02987f2bd6d2956faf455fe1e2ec6cd014d4729f82f565c1076e0eb9bfd419a3
+#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/212/875/202204010054_1626678143105_H169_1080.jpg" group-title="央视", CCTV14少儿
+https://mursor.ottiptv.cc/migu/624878440.m3u8?migutoken=826ed04b16449e8ee90b382dd939dc996217966a7ac40020bed69b77de2b2a8d1fed6d4189da6085c65a940407cec28443172b791397ebb80e1761b6e3db6aac9d22b88c9b74a11a92a53f2429
 #EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5501/083/628/202204010054_1626678239769_H169_1080.jpg" group-title="央视", CCTV15音乐
 https://mursor.ottiptv.cc/migu/673168223.m3u8?migutoken=1fff8d90d0dd2337079a16409648ada8732d83dc1b6a0bcfad319da7c12dcd13848ffbde0787894c45b35799b6aab8def22cb24bb021e243d40eadcd37f39d1b74c5e2eb5f3f0dc8aa1b886b69
 #EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5501/083/631/202204010052_1626678423944_H169_1080.jpg" group-title="央视", CCTV17农业农村
@@ -213,8 +215,6 @@ https://mursor.ottiptv.cc/migu/629942228.m3u8?migutoken=31916e3b84754854099aba04
 https://mursor.ottiptv.cc/migu/614952364.m3u8?migutoken=b625c88f0d3df72b5b03acc62009dcb43331ada354815b5d5b7f8264219d1b76dabf9a76e0017b6e58d213b3a8ad13ab53cd32af8136b660c381dbfb5f2f9bab915c8f1dea86a316e78ba81a76
 #EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/315/652/202204010055_5101034205_H169_1080.jpg" group-title="少儿", 经典动画大集合
 https://mursor.ottiptv.cc/migu/629942219.m3u8?migutoken=15aaa3a80b490c43bd285183c2c19db52d1398e218b8a4ef7173c88dbc5c960ff7e3a7c53afcfc6b717dc5ab2190ed09a08657c4eacd8e1706550e7268a8184f130a989b4de87e46004f130d8a
-#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/212/875/202204010054_1626678143105_H169_1080.jpg" group-title="央视", CCTV14少儿
-https://mursor.ottiptv.cc/migu/624878440.m3u8?migutoken=826ed04b16449e8ee90b382dd939dc996217966a7ac40020bed69b77de2b2a8d1fed6d4189da6085c65a940407cec28443172b791397ebb80e1761b6e3db6aac9d22b88c9b74a11a92a53f2429
 #EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5910/019/523/202506060000_1749138932995_H169_1080.jpg" group-title="纪实", 新动力量创一流
 https://mursor.ottiptv.cc/migu/713589837.m3u8?migutoken=456404830419cd1af811084352f3a1aa169769d264108fe490068c6dc5c50c4af52f01cfdd2a9a1a6314bdccc621c2fc91dff8c35d0e0e4abb6602e1d5fb16e6464ada09cf5ba14326f43d6326
 #EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/613/479/202210281603_5102115888_HSJ720H.jpg" group-title="印象天下", 钱塘江
