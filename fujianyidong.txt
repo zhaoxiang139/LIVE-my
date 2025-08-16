@@ -1,3 +1,19 @@
+河北少儿,#genre#
+CCTV-少儿HD,http://ts-gitv-hbyx-yh.189smarthome.com/live/OP001/IP-CCTV-14HD/index.m3u8
+卡酷动画HD,http://ts-gitv-hbyx-yh.189smarthome.com/live/OP001/IP-KKDH-HD/index.m3u8
+金鹰卡通HD,http://ts-gitv-hbyx-yh.189smarthome.com/live/OP001/IP-JYKT-HD/index.m3u8
+优漫卡通,http://111.43.126.240:9003/hls/74/index.m3u8
+炫动卡通,http://111.43.126.240:9003/hls/72/index.m3u8
+嘉佳卡通,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=wasusyt&Contentid=6000000003000025508&livemode=1&stbId=toShengfen&mode=1&$2M SD
+黑莓动画,http://111.43.126.240:9003/hls/100/index.m3u8
+内蒙古少儿,http://play1-qk.nmtv.cn/live/1686560464515368.m3u8
+浙江少儿,http://ali-vl.cztv.com/channels/lantian/channel008/360p.m3u8?a=1000&amp;d=83b26bacf5397c013aff782b2c4287d0&amp;k=c99bdac76cff6ddc27e750ba689b7d5b&amp;t=1704368408
+浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+动漫秀场HD,http://ts-gitv-hbyx-yh.189smarthome.com/live/OP001/IP-DMXC-HD/index.m3u8
+优优宝贝HD,http://ts-gitv-hbyx-yh.189smarthome.com/live/OP001/IP-YYBB-HD/index.m3u8
+早期教育HD,http://ts-gitv-hbyx-yh.189smarthome.com/live/OP001/IP-ZQJY-HD/index.m3u8
+河北少儿科教HD,http://ts-gitv-hbyx-yh.189smarthome.com/live/OP001/IP-HEBSEKJ-HD/index.m3u8
+
 河北有线,#genre#
 CCTV-1HD,http://ts-gitv-hbyx-yh.189smarthome.com/live/OP001/IP-CCTV-1HD/index.m3u8
 CCTV-2HD,http://ts-gitv-hbyx-yh.189smarthome.com/live/OP001/IP-CCTV-2HD/index.m3u8
@@ -12,7 +28,6 @@ CCTV-10HD,http://ts-gitv-hbyx-yh.189smarthome.com/live/OP001/IP-CCTV-10HD/index.
 CCTV-11HD,http://ts-gitv-hbyx-yh.189smarthome.com/live/OP001/IP-CCTV-11HD/index.m3u8
 CCTV-12HD,http://ts-gitv-hbyx-yh.189smarthome.com/live/OP001/IP-CCTV-12HD/index.m3u8
 CCTV-新闻HD,http://ts-gitv-hbyx-yh.189smarthome.com/live/OP001/IP-CCTV-13HD/index.m3u8
-CCTV-少儿HD,http://ts-gitv-hbyx-yh.189smarthome.com/live/OP001/IP-CCTV-14HD/index.m3u8
 CCTV-音乐HD,http://ts-gitv-hbyx-yh.189smarthome.com/live/OP001/IP-CCTV-15HD/index.m3u8
 CCTV-16HD,http://ts-gitv-hbyx-yh.189smarthome.com/live/OP001/IP-CCTV-16HD/index.m3u8
 CCTV-17HD,http://ts-gitv-hbyx-yh.189smarthome.com/live/OP001/IP-CCTV-17HD/index.m3u8
@@ -23,7 +38,6 @@ CCTV-5+HD,http://ts-gitv-hbyx-yh.189smarthome.com/live/OP001/IP-CCTV-5TYSSHD/ind
 河北农民HD,http://ts-gitv-hbyx-yh.189smarthome.com/live/OP001/IP-HEBNM-HD/index.m3u8
 河北都市HD,http://ts-gitv-hbyx-yh.189smarthome.com/live/OP001/IP-HEBDS-HD/index.m3u8
 河北影视HD,http://ts-gitv-hbyx-yh.189smarthome.com/live/OP001/IP-HEBYS-HD/index.m3u8
-河北少儿科教HD,http://ts-gitv-hbyx-yh.189smarthome.com/live/OP001/IP-HEBSEKJ-HD/index.m3u8
 河北公共HD,http://ts-gitv-hbyx-yh.189smarthome.com/live/OP001/IP-HEBGG-HD/index.m3u8
 河北收视指南HD,http://ts-gitv-hbyx-yh.189smarthome.com/live/OP001/IP-HEBSSZN-HD/index.m3u8
 河北杂技HD,http://ts-gitv-hbyx-yh.189smarthome.com/live/OP001/IP-HEBZJ-HD/index.m3u8
@@ -59,14 +73,12 @@ CCTV-5+HD,http://ts-gitv-hbyx-yh.189smarthome.com/live/OP001/IP-CCTV-5TYSSHD/ind
 兵团卫视,http://ts-gitv-hbyx-yh.189smarthome.com/live/OP001/IP-BTWS-SD/index.m3u8
 西藏卫视,http://ts-gitv-hbyx-yh.189smarthome.com/live/OP001/IP-XZWS-SD/index.m3u8
 新疆卫视,http://ts-gitv-hbyx-yh.189smarthome.com/live/OP001/IP-XJWS-SD/index.m3u8
-金鹰卡通HD,http://ts-gitv-hbyx-yh.189smarthome.com/live/OP001/IP-JYKT-HD/index.m3u8
 山东教育HD,http://ts-gitv-hbyx-yh.189smarthome.com/live/OP001/IP-SDJY-HD/index.m3u8
 梨园HD,http://ts-gitv-hbyx-yh.189smarthome.com/live/OP001/IP-NYPD-HD/index.m3u8
 北京纪实HD,http://ts-gitv-hbyx-yh.189smarthome.com/live/OP001/IP-JSKJ-HD/index.m3u8
 东方财经HD,http://ts-gitv-hbyx-yh.189smarthome.com/live/OP001/IP-DFCJ-HD/index.m3u8
 环球旅游HD,http://ts-gitv-hbyx-yh.189smarthome.com/live/OP001/IP-HQLY-HD/index.m3u8
 四海钓鱼HD,http://ts-gitv-hbyx-yh.189smarthome.com/live/OP001/IP-SHDY-HD/index.m3u8
-优优宝贝HD,http://ts-gitv-hbyx-yh.189smarthome.com/live/OP001/IP-YYBB-HD/index.m3u8
 CCTV-中学生HD,http://ts-gitv-hbyx-yh.189smarthome.com/live/OP001/IP-ZXS-HD/index.m3u8
 文物宝库HD,http://ts-gitv-hbyx-yh.189smarthome.com/live/OP001/IP-WWBK-HD/index.m3u8
 CGTN(HD),http://ts-gitv-hbyx-yh.189smarthome.com/live/OP001/IP-CGTN-HD/index.m3u8
@@ -80,10 +92,8 @@ CGTV阿拉伯语HD,http://ts-gitv-hbyx-yh.189smarthome.com/live/OP001/IP-CGTNALB
 华诚高清HD,http://ts-gitv-hbyx-yh.189smarthome.com/live/OP001/IP-HCGQ-HD/index.m3u8
 CHC家庭影院HD,http://ts-gitv-hbyx-yh.189smarthome.com/live/OP001/IP-JTYY-HD/index.m3u8
 CHC动作电影HD,http://ts-gitv-hbyx-yh.189smarthome.com/live/OP001/IP-DZDY-HD/index.m3u8
-卡酷动画HD,http://ts-gitv-hbyx-yh.189smarthome.com/live/OP001/IP-KKDH-HD/index.m3u8
 央视台球HD,http://ts-gitv-hbyx-yh.189smarthome.com/live/OP001/IP-YSTQ-HD/index.m3u8
 生活时尚HD,http://ts-gitv-hbyx-yh.189smarthome.com/live/OP001/IP-SHSS-HD/index.m3u8
-动漫秀场HD,http://ts-gitv-hbyx-yh.189smarthome.com/live/OP001/IP-DMXC-HD/index.m3u8
 乐游HD,http://ts-gitv-hbyx-yh.189smarthome.com/live/OP001/IP-LY-HD/index.m3u8
 劲爆体育HD,http://ts-gitv-hbyx-yh.189smarthome.com/live/OP001/IP-JBTY-HD/index.m3u8
 游戏风云HD,http://ts-gitv-hbyx-yh.189smarthome.com/live/OP001/IP-YXFY-HD/index.m3u8
