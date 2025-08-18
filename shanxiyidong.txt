@@ -11,6 +11,7 @@ CCTV14,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226130/1.m3u8
 哈哈炫动,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226010/1.m3u8
 黑莓动画,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225772/1.m3u8
 内蒙古少儿,http://play1-qk.nmtv.cn/live/1686560464515368.m3u8
+浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 浙江少儿,http://ali-vl.cztv.com/channels/lantian/channel008/360p.m3u8?a=1000&amp;d=83b26bacf5397c013aff782b2c4287d0&amp;k=c99bdac76cff6ddc27e750ba689b7d5b&amp;t=1704368408
 浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 
