@@ -179,6 +179,7 @@ CETV4,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225748/1.m3u8
 中华美食,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225793/1.m3u8
 黑莓电影,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225775/1.m3u8
 电视剧1,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226238/1.m3u8
+1905电影网,http://php.jdshipin.com/1905.php
 
 地方频道,#genre#
 怀仁综合,http://1yp7hc5p.live.sxmty.com/live/hls/bff8529922344209985b6e49baa9555a/efa2543628fc4a7ea93d3d6c975f77dc.m3u8?zshanxd
