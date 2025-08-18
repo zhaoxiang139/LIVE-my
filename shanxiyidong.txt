@@ -195,4 +195,3 @@ CETV4,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225748/1.m3u8
 霍州,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225952/1.m3u8
 潞州,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225964/1.m3u8
 稷山,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226196/1.m3u8
-左权台http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225991/1.m3u8
