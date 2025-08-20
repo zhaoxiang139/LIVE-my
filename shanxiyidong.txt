@@ -1,4 +1,4 @@
-山西少儿,#genre#
+山西移动少儿,#genre#
 CCTV14,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225974/1.m3u8
 CCTV14,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226130/1.m3u8
 卡酷少儿,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225795/1.m3u8
