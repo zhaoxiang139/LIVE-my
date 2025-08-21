@@ -51,32 +51,3 @@ CCTV15音乐,http://123.159.33.171:85/tsfile/live/0015_1.m3u8?key=txiptv
 河北卫视,http://123.159.33.171:85/tsfile/live/0117_1.m3u8?key=txiptv
 内蒙古卫视,http://123.159.33.171:85/tsfile/live/0109_1.m3u8?key=txiptv
 测试,#genre#
-凤凰中文台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=jfoawp&tk=cl177bPI6scY
-凤凰资讯台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=1vUEil&tk=cl177bPI6scY
-凤凰香港台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=XHMwkS&tk=cl177bPI6scY
-翡翠台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=6vTAgE&tk=cl177bPI6scY
-翡翠台(备),http://kkk.888.3116598.xyz/api.php?n=HKTV&id=rGo4XM&tk=cl177bPI6scY
-明珠台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=UGVQss&tk=cl177bPI6scY
-无线新闻台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=LOqg2J&tk=cl177bPI6scY
-TVB plus,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=rGg61G&tk=cl177bPI6scY
-HOY77,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=2PnBJL&tk=cl177bPI6scY
-HOY78,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=Hij7G3&tk=cl177bPI6scY
-鳳凰衛視中文台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=EQ8435&tk=cl177bPI6scY
-鳳凰衛視資訊台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=MSKypc&tk=cl177bPI6scY
-鳳凰衛視香港台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=G7zTvF&tk=cl177bPI6scY
-myTV SUPER 18台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=UISSYp&tk=cl177bPI6scY
-TVB Plus,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=XqNs1h&tk=cl177bPI6scY
-明珠台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=K0LKl7&tk=cl177bPI6scY
-無線新聞台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=3hHeMA&tk=cl177bPI6scY
-美亞電影台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=JvZBNl&tk=cl177bPI6scY
-PopC,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=9Uiq0I&tk=cl177bPI6scY
-VIUTV,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=OgC7eV&tk=cl177bPI6scY
-千禧經典台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=AkxSGx&tk=cl177bPI6scY
-翡翠台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=i6sdgj&tk=cl177bPI6scY
-NOW新闻,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=qKSntb&tk=cl177bPI6scY
-广东体育,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=UZyiv4&tk=cl177bPI6scY
-广东珠江,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=Ok17pR&tk=cl177bPI6scY
-中天新聞台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=J6iUZv&tk=cl177bPI6scY
-天映频道(印尼),http://push-rtmp-hs-spe-f5.douyincdn.com/live/hktv-gtyhf24.flv
-天映经典(印尼),http://push-rtmp-hs-spe-f5.douyincdn.com/live/hktv-gtyhf25.flv
-天映CM+,http://push-rtmp-hs-spe-f5.douyincdn.com/live/hktv-xjpjit.flv
