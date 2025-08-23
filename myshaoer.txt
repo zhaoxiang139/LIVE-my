@@ -511,7 +511,7 @@ NewTV,#genre#
 東森新聞,http://s1.an94tv.cfd/zhongtian/CH-1/AKTV.m3u8
 無線新聞台,http://s1.an94tv.cfd/aktv/CH-1/AKTV.m3u8
 天映經典(1080),http://s1.an94tv.cfd/aktv/1080/AKTV.m3u8
-PopC,http://s1.an94tv.cfd/aktv/popc/AKTV.m3u8
+PopC电影台,http://s1.an94tv.cfd/aktv/popc/AKTV.m3u8
 ROCK Action,http://s1.an94tv.cfd/aktv/rockaction/AKTV.m3u8
 美亞電影台(HK),http://s1.an94tv.cfd/aktv/hk/AKTV.m3u8
 Animax (HK),http://s1.an94tv.cfd/aktv/animaxhk/AKTV.m3u8
