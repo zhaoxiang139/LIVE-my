@@ -71,6 +71,7 @@ CETV1HD,http://1857416894.xionguamaqui.com:9901/tsfile/live/0017_1.m3u8
 CCTV2,http://cdn.jdshipin.com/cctv2.php
 河北4K,https://event.pull.hebtv.com:443/live/live101.m3u8
 苏州4K,https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
+
 测试频道1,#genre#
 鳳凰衛視中文台,http://s1.an94tv.cfd/aktv/CH-3/AKTV.m3u8
 鳳凰衛視資訊台,http://s1.an94tv.cfd/aktv/CH-4/AKTV.m3u8
