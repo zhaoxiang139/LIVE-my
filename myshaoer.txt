@@ -11,8 +11,6 @@ CCTV14,http://z.b.bkpcp.top/m.php?id=cctv14
 浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 浙江少儿,http://ali-vl.cztv.com/channels/lantian/channel008/360p.m3u8?a=1000&amp;d=83b26bacf5397c013aff782b2c4287d0&amp;k=c99bdac76cff6ddc27e750ba689b7d5b&amp;t=1704368408
 浙江少儿,http://123.159.33.171:85/tsfile/live/1004_1.m3u8?key=txiptv
-Channel 5 HD,http://s1.an94tv.cfd/aktv/channel5hd/AKTV.m3u8
-Channel 8 HD,http://s1.an94tv.cfd/aktv/channel8hd/AKTV.m3u8
 猫和老鼠,https://live.iill.top/huya/11352879
 猫和老鼠,http://live.iill.top/huya.php?id=11352879
 七龙珠,https://live.iill.top/huya/11601966
