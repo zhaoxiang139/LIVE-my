@@ -203,8 +203,6 @@ TVB-金曲,http://iptv.4666888.xyz/iptv.php?id=20142
 新加坡M8,http://iptv.4666888.xyz/iptv.php?id=20286
 Hub娱家,http://iptv.4666888.xyz/iptv.php?id=20287
 Hub都会,http://iptv.4666888.xyz/iptv.php?id=20288
-
-===============台湾================
 TVBS新闻,http://iptv.4666888.xyz/iptv.php?id=20168
 三立新闻,http://iptv.4666888.xyz/iptv.php?id=20169
 三立iNEWS,http://iptv.4666888.xyz/iptv.php?id=20170
