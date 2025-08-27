@@ -225,7 +225,7 @@ CETV4,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225748/1.m3u8
 潞州,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225964/1.m3u8
 稷山,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226196/1.m3u8
 
-测试频道为深圳移动,#genre#
+测试频道,#genre#
 凤凰中文,http://iptv.4666888.xyz/iptv.php?id=20060
 凤凰资讯,http://iptv.4666888.xyz/iptv.php?id=20061
 凤凰香港,http://iptv.4666888.xyz/iptv.php?id=20062
