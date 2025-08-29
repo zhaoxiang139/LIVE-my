@@ -1,3 +1,4 @@
+#EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml"
 #咪咕直播
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="咪咕直播",CCTV-1综合
 http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv1
