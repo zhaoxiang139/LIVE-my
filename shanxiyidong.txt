@@ -150,6 +150,7 @@ CETV4,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225748/1.m3u8
 康巴卫视,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226205/1.m3u8
 
 数字频道,#genre#
+相声小品,http://newstreamcdnct.inter.ptqy.gitv.tv:80/tslive/c59_fast_1044_720P_t10/c59_fast_1044_720P_t10.m3u8?d
 金鹰纪实,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225745/1.m3u8
 精品大剧,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225766/1.m3u8
 金牌综艺,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225769/1.m3u8
@@ -184,7 +185,6 @@ CETV4,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225748/1.m3u8
 黑莓电影,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225775/1.m3u8
 电视剧1,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226238/1.m3u8
 1905电影网,http://php.jdshipin.com/1905.php
-相声小品,http://newstreamcdnct.inter.ptqy.gitv.tv:80/tslive/c59_fast_1044_720P_t10/c59_fast_1044_720P_t10.m3u8?d
 家庭剧场,http://gdctyuncdnct.inter.ptqy.gitv.tv:80/tslive/c54_fast_877_720P_t10/c54_fast_877_720P_t10.m3u8?d
 都市生活,http://bscloudcdnct.inter.ptqy.gitv.tv:80/tslive/c56_fast_878_720P_t10/c56_fast_878_720P_t10.m3u8?d
 传奇剧场,http://lvbaiducdnct.inter.ptqy.gitv.tv:80/tslive/c54_fast_1052_720P_t10/c54_fast_1052_720P_t10.m3u8?d
