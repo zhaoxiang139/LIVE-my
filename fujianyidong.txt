@@ -74,5 +74,20 @@ CCTV2,http://cdn.jdshipin.com/cctv2.php
 
 测试频道1,#genre#
 香港财经,https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
-
+凤凰中文,http://iptv.4666888.xyz/iptv.php?id=20060
+凤凰资讯,http://iptv.4666888.xyz/iptv.php?id=20061
+凤凰香港,http://iptv.4666888.xyz/iptv.php?id=20062
+凤凰中文,http://iptv.4666888.xyz/iptv.php?id=20063
+凤凰资讯,http://iptv.4666888.xyz/iptv.php?id=20064
+凤凰香港,http://iptv.4666888.xyz/iptv.php?id=20065
+天映经典,http://iptv.4666888.xyz/iptv.php?id=20114
+天映经典2,http://iptv.4666888.xyz/iptv.php?id=20115
+天映频道,http://iptv.4666888.xyz/iptv.php?id=20116
+天映频道2,http://iptv.4666888.xyz/iptv.php?id=20117
+美亚电影(港),http://iptv.4666888.xyz/iptv.php?id=20120
+日本动画,http://122.53.222.9:9981/stream/channelid/870547344?profile=pass
+星空卫视,http://122.53.222.9:9981/stream/channelid/2084767267?profile=pass
+澳门莲花卫视,http://122.53.222.9:9981/stream/channelid/801543536?profile=pass
+天映频道,http://122.53.222.9:9981/stream/channelid/1069391940?profile=pass
+nba,http://122.53.222.9:9981/stream/channelid/1044534831?profile=pass
 
