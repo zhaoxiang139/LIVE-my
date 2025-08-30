@@ -112,3 +112,4 @@ CETV4,http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/zgjy
 睛彩青少,http://120.210.193.151:8006/000000001001/3000000020000031315/3000000020000031315.m3u8
 睛彩广场舞,http://221.181.100.64/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011523&livemode=1&stbId=m
 中国天气,http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/zgqxhd4mc/index.m3u8
+CCTV4K,http://120.210.193.151:8006/120000000058/G_CCTV-4K-HD/index.m3u8
