@@ -252,8 +252,7 @@ TVBS新闻,http://iptv.4666888.xyz/iptv.php?id=20168
 台视新闻,http://iptv.4666888.xyz/iptv.php?id=20172
 中天新闻,http://iptv.4666888.xyz/iptv.php?id=20173
 东森新闻,http://iptv.4666888.xyz/iptv.php?id=20174
-东森新闻(美),http://iptv.4666888.xyz/iptv.php?id=20175
-寰宇新闻,http://iptv.4666888.xyz/iptv.php?id=20176
+寰宇新闻,http://iptv.4666888.xyz/iptv.php?id=20176
 寰宇新闻台湾,http://iptv.4666888.xyz/iptv.php?id=20293
 民视新闻,http://iptv.4666888.xyz/iptv.php?id=20177
 日本动画,http://122.53.222.9:9981/stream/channelid/870547344?profile=pass
