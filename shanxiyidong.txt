@@ -13,6 +13,7 @@ CCTV14,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226130/1.m3u8
 黑莓动画,http://111.43.126.240:9003/hls/100/index.m3u8
 Animaxa动漫,http://iptv.4666888.xyz/iptv.php?id=20258
 MYTV_SUPER少儿,http://iptv.4666888.xyz/iptv.php?id=20110
+經典卡通,http://iptv.4666888.xyz/iptv.php?id=20252
 靖洋卡通,http://iptv.4666888.xyz/iptv.php?id=20295
 CN卡通,http://iptv.4666888.xyz/iptv.php?id=20262
 内蒙古少儿,http://play1-qk.nmtv.cn/live/1686560464515368.m3u8
