@@ -276,6 +276,9 @@ NOW新闻,http://bxtv.3a.ink/api.php?id=now
 广东珠江,http://bxtv.3a.ink/api.php?id=gdzj
 中天新聞台,http://bxtv.3a.ink/api.php?id=ztxw
 香港财经,https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
+Hi Dost中文台
+https://cdn-1.pishow.tv/live/224/master.m3u8
+湖南卫视,http://api.kkitv.itv888.cn:8080/hls/hoxiunz7ce/index.m3u8
 2025年93阅兵完整版,https://contentcenter-videovali-drcn.dbankcdn.cn/pvt_18/Browser_BrowserVideoTranscodeFor720_1039_8/01/v3/M6kJ4CkcTh2Y6G6PoUVCHA-2025-09/105103984819ca122616ae535bf191d3afa75bd/zW0O-e5gQ8-SKDxXi4C8sw/1280x720_crf_24_h264.mp4?HW-CC-KV=V1&HW-CC-Date=20250904T112013Z&HW-CC-Expire=97200&HW-CC-Sign=01CC805A316A8DC32C77918FCD6E6F57C62EF58BE08F7BE0040067F147B75187
 
 
