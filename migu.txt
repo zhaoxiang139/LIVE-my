@@ -18,6 +18,7 @@ CCTV14,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226130/1.m3u8
 
 测试频道,#genre#
 睛彩广场舞,http://221.181.100.64/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011523&livemode=1&stbId=m
+唐人卫视频道,https://ntd02.akamaized.net/HD-NY/tracks-v3a1/mono.m3u8
 澳门莲花,https://cdn1.skygo.mn/live/disk1/Lotus/HLSv3-FTA/Lotus.m3u8
 CCTV1,http://api.kkitv.itv888.cn:8080/hls/f5fuln3kthe/index.m3u8
 CCTV2,http://api.kkitv.itv888.cn:8080/hls/4nlkhc68gfu/index.m3u8
