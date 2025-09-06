@@ -1176,6 +1176,155 @@ CCTV17,http://118.81.193.192:9003/hls/18/index.m3u8$山西联通酒店
 重庆农村,http://27.14.29.228:3080/udp/225.0.4.189:7980$重庆联通
 CQTV移动,http://27.14.29.228:3080/udp/225.0.4.215:7980$重庆联通
 
+🖥️AK频道#genre#
+ 
+ 
+🚀港澳台#genre#
+维护中https://i.uik.cc/view.php/f8576ff37fa8b87696b6a0db283fd201.mp4
+
+🔥港台电影,#genre#
+ 
+1905电影,http://xxwx.yoesun.com/xxw/1905电影网.php?id=1905
+搜狐剧场,https://hdl-vip-ws.qf.56.com/live/lc_11730.flv
+澳门莲花,http://live-hls.macaulotustv.com/lotustv/macaulotustv.m3u8$官网
+天映经典,http://117.141.162.238:8181/tsfile/live/1018_1.m3u8?key=txiptv&playlive=0&authid=0$广西/玉林/移动
+中国电影,http://117.141.162.238:8181/tsfile/live/1032_1.m3u8?key=txiptv&playlive=1&authid=0$广西/玉林/移动
+私人影院,http://117.141.162.238:8181/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0$广西/玉林/移动
+凤凰电影,http://iot-mqqt.111yao.cn:8080/live/diyp_fhdy.m3u8
+峨眉电影,http://183.220.20.17:4321/udp/239.11.0.11:5140$四川/成都/移动
+峨眉电影,http://182.150.115.26:5003/custom6.m3u8$四川/成都/电信
+ 
+🇭🇰香港,#genre#
+凤凰中文,http://pullpackage.alivecdn.com/live/gwS5kbEwNmWObygXxkddGlm43Yr0rZAqkFgLZRwPewJMVnfHy8.flv?%E4%BA%8C%E6%9C%8D
+凤凰资讯,http://pullpackage.alivecdn.com/live/7KUcGQoK7Glm43K0vAuRVWGZSscrMD5x2eSGbg4y8YFVh6dd2S.flv?%E4%BA%8C%E6%9C%8D
+凤凰香港,http://pullpackage.alivecdn.com/live/uEACKo2YT4ZTiHBMNM2g49d00j924NASwca4Glm436hsAvKE1L.flv?%E4%BA%8C%E6%9C%8D
+凤凰中文,http://pullpackage.alivecdn.com/live/tpDBWXTxdhzoUu1gnH20ubQyeRGHXkgd39g6LGlm43yvqoOh0v.flv?%E4%BA%8C%E6%9C%8D
+凤凰资讯,http://pullpackage.alivecdn.com/live/NGlm43vRnnPQMW75ChBYcdDHoXNhDGasZ9toR0LypVUNSceNpy.flv?%E4%BA%8C%E6%9C%8D
+凤凰香港,http://pullpackage.alivecdn.com/live/dVyl2y8FNl6KDX7hesuxPOQwZUFY48H0jWLIRGlm43gUTYwb5D.flv?%E4%BA%8C%E6%9C%8D
+凤凰中文,https://cdn6.101.qzz.io/163189/fhzw
+凤凰资讯,https://cdn6.101.qzz.io/163189/fhzx
+凤凰香港,https://cdn6.101.qzz.io/163189/fhhk
+无线生活,http://j.s.bkpcp.top/js/tvbsht
+无线星河国标,http://j.s.bkpcp.top/js/tvbxhpdg
+无线星河粤标,http://j.s.bkpcp.top/js/tvbxhpdy
+无线功夫国标,http://j.s.bkpcp.top/js/tvbgftg
+无线功夫粤标,http://j.s.bkpcp.top/js/tvbgfty
+翡翠台,http://mytv.cdn.loc.cc/o12.php?id=fct
+ 
+Plus综合,http://pullpackage.alivecdn.com/live/O5YSEcBsq1Sn6UZDddrf2uC7Ub3lAtYhmtOhbZFhdCdSpkHMDe.flv
+pₒₚc电影,http://pullpackage.alivecdn.com/live/qCjser4LmXtrk9zddBzVgxYdDxQc1yBcWaJZbPGtvaFUpFJL5q.flv
+CM+电影,http://pullpackage.alivecdn.com/live/AIEsDlzGuBqUcVt1MbzxzddBzrxoP8pNBiNUgdbrfoYo5obb5B.flv
+Now爆谷,http://pullpackage.alivecdn.com/live/vhNli7a2uwqrSArlhBpDjs0w6UZDdVLkMnb9OJ2Hzj14qlP0TO.flv
+Now星影,http://pullpackage.alivecdn.com/live/eZ15T2tea8ztrRlszHaTVfz0EB9nqz8GhiBZHNyMW06UZDdRZt.flv
+有线新闻,http://pullpackage.alivecdn.com/live/hUCrfw4QYQ0jnzNzBOyknEou8NKNbPM30NZ4zz6UZDd05KeGhG.flv
+无线新闻,http://live3.jiatianxiazhuangshi.com/live/iUJnBYKU9riuj2Jlibsdwb5m69FKfo6UZDdgNC09xXfFvAn4GP.flv
+Now新闻,http://pullpackage.alivecdn.com/live/jZZ2hCFnEcClg2McuImLPcRz6UZDdaXDBKtltuWtYkNUFb7FPU.flv
+无线翡翠,http://pullpackage.alivecdn.com/live/CL7gYJcMM5BXZvyamZly3XZnyMmRJ6UZDdp12oP6KkG1PhQWJK.flv
+无线翡翠新坡,http://pullpackage.alivecdn.com/live/bNUJfDlj5xtSJFSf660kDlG6UZDdaNX0tUks0kHM00gDkHukNW.flv
+无线翡翠马来,http://pullpackage.alivecdn.com/live/QbsxHsZLNj2ktY6UZDdZTZUHJTlZVjSZpxY5sl6vOrZ3E7ZGep.flv
+无线明珠,http://pullpackage.alivecdn.com/live/fiUuXZC6C8vRRfGvuUTOUJqf5P6UZDdH9BhEE7d6usSBcnv4Ar.flv
+无线娱乐,http://pullpackage.alivecdn.com/live/SE7CQoYzqeFgE2XWIdGn5xhydKz9KCZQE8eqDZKv6UZDd0LemY.flv
+无线生活,http://pullpackage.alivecdn.com/live/1YSKKplsCJMBhMsAS37Py6UZDd2UCOeqYgPS0IDjve8UKxS5QS.flv
+无线星河国,http://pullpackage.alivecdn.com/live/uQ6GAaRJTHxr6UZDduthoagPy0FHuv5avbHvBZcOr5HvXfRxPV.flv
+无线星河粤,http://pullpackage.alivecdn.com/live/8uNQ46jkBZiwc55OHDKkzFYcxx6FXq94pv6UZDdsZsjzJtTCVU.flv
+无线功夫国,http://pullpackage.alivecdn.com/live/chNDM1y6UZDdfbemYe3QFaC10n2vqBePUyvCKs7NLnIKhl7lKu.flv
+无线功夫粤,http://pullpackage.alivecdn.com/live/YpGP7rsFENzvY6UZDdaKuCFTBnIH0fRmVUak5AfbG3XLFwTEPv.flv
+无线翡剧,http://pullpackage.alivecdn.com/live/d44FhMk2AV9IbtcJgmYc7rrDSOOxn6UZDdTnY2MtgFyn0ArB7z.flv
+无线明剧,http://pullpackage.alivecdn.com/live/U5Lu0QKcXlS8JlsFq99Y9fgbg6UZDdqtabagzClzSngLlR1hL2.flv
+无线_1美,http://pullpackage.alivecdn.com/live/9nWoj6aYLHQtkV1fXQa0tN6c00jq5FxEqzfqZ6OBB6UZDdePqp.flv
+无线J1美,http://pullpackage.alivecdn.com/live/xU3SHbh86UZDdCEoP4aRvogZf7Onz4VphQKpce5vuUHrwYauhG.flv
+无线新闻美效,http://pullpackage.alivecdn.com/live/yZ6UZDdFKhAZiWnXgZWQtkOfGZLPdaetFNBYOn2p5klcv31Zq2.flv
+无线千禧,http://pullpackage.alivecdn.com/live/dExIt6UZDdRV3yeH33cbhn443lvbm4nz1qEI9Rfs1Slf1STsjz.flv
+无线经典,http://pullpackage.alivecdn.com/live/fD4fmT6vwtB6UZDdFEIbVd4SyRYntuv1udJKWezJ9NkDqJuGUw.flv
+无线亚剧,http://pullpackage.alivecdn.com/live/rM0yCjRrM45g0g0zb6SBpvHTFhSCM6UZDdp3yOjoj39pcQVAO5.flv
+无线戏曲,http://pullpackage.alivecdn.com/live/EQcxaUJ0gZR1V1guXNnV6UZDd3lw09kOfAEmUvz6eXnGqefbwf.flv
+无线粤片,http://pullpackage.alivecdn.com/live/v5LtFyUjxTM9K9sXnBUAtatoy85TCGnQEqb6UZDdz8gSKtPpeL.flv
+有线综合,http://pullpackage.alivecdn.com/live/OCitoW8kzeqjIz36UZDdfrCbwDgkjTSFmulrDM1lE9TMzfApyL.flv
+无线赛马,http://pullpackage.alivecdn.com/live/cT7MQqzKrmrzddBzvZdfHcd10LKIBUwfBRmIv7kKO9mFkPlyy7.flv
+28aI赛马,http://pullpackage.alivecdn.com/live/XjuVOEkd0OiG5eoxSGZCcgKP0riuzddBzC3FGnZ8Sj26LYwQVq.flv
+黄金翡翠,http://pullpackage.alivecdn.com/live/R66UZDdqenSOIcWLKrw7tdTr6YAlUncDMRVANBe7tBQpLPlbtN.flv
+黄金华剧,http://pullpackage.alivecdn.com/live/HZvZxcheOtb6UZDdYtaTNRcYeQhgGTeXNBxInESYlFHHleooST.flv
+Now剧集,http://pullpackage.alivecdn.com/live/B9AKX0X3gSWZVv91H6UZDdsYyM8Fie9HvmJFzg3XN8JiR27kog.flv
+Now紫金,http://pullpackage.alivecdn.com/live/QrXWok6UZDdeGAWr9KbBUj9SwAMpVECiuTogGgIBeU1qwawMVI.flv
+Now财经,http://pullpackage.alivecdn.com/live/id2juxgerPpaXYPuBn0AXpi6dkvTB6UZDdknvEt65hmHi9T4LV.flv
+VIUTV-粤,http://pullpackage.alivecdn.com/live/qwBoHYA5D4CJaoEgtcAi3kQJ0f6UZDdov2AtSIL9RQVzndAtee.flv
+VIUTV-英,http://pullpackage.alivecdn.com/live/XTVjHb7nkSAmq4th36UZDdUQfGi89vvKt3IQIE0wTbQWlYkC6M.flv
+RTHK-31,http://pullpackage.alivecdn.com/live/LfN6YUZUCujLNYAAbTwZNcgmoY0FTLE4wnk6UZDd3nVtHcTXws.flv
+RTHK-32,http://pullpackage.alivecdn.com/live/2qZtBpB9peDqOiC3nfsgcW6UZDdZEW6qI8pTBOx39dndS7vriR.flv
+HUB娱家,http://pullpackage.alivecdn.com/live/GcfZCDyCgexp8USTySZ0oNBzddBznfWCOL5hm2AVQ5BDpUHPLT.flv
+HUB都会,http://pullpackage.alivecdn.com/live/UvzddBzjzUN28jAhDBAnKugzkDvUQQFBxPSLTSTxTAltdKqqw9.flv
+新加乐酷,http://pullpackage.alivecdn.com/live/GzddBznmfiM0uqxZWlzJBXKE9G4gv2fKB3eAtc6qB3Ye8F2DLj.flv
+新加_E乐,http://pullpackage.alivecdn.com/live/xh029O2qKjDD8o27lHj76f63TmxtfPMWcwIDuHgPjzddBzNgVp.flv
+新加CHu,http://pullpackage.alivecdn.com/live/zp9uNUvjizz7IH00H63GBYGeLaaiMQkj5ZOFUzddBzeR0SVrSQ.flv
+新加CH5,http://pullpackage.alivecdn.com/live/VJVrMuQ0xwyiaWoTR6PzddBz9C5knrh34u7RP31Yy5W8Tt4N9x.flv
+新加CH8,http://pullpackage.alivecdn.com/live/xMTbfoAlsYbZwgCzddBzF2yuV6c55LyiBe2cvEDBI8Mtgt5ggv.flv
+天映经典国效,http://pullpackage.alivecdn.com/live/m9HgJVv5tpj9y6X4G1zddBzc0cReeehuBpFdXTV9XG4BHoCfje.flv
+天映经典粤效,http://pullpackage.alivecdn.com/live/R6lHXlf5kuOzddBzQcmTulgsTEgPPA1nSDMKzDM7ZY7vJpVAz1.flv
+天映频道国效,http://pullpackage.alivecdn.com/live/XnAdPMgnYti2BzddBzVqSXjdBemJSo8pZTaVRnBNWQx6BSvNiq.flv
+天映频道粤效,http://pullpackage.alivecdn.com/live/F1ivcJGhnLpvXiIFMzxSRcAFyRzddBzfOK9k9OLV3eXJVEyv8B.flv
+星光综合,http://pullpackage.alivecdn.com/live/pM6x6iYBSRSjT5CVysT4YDxpQ8hyY1BOAhEpYGg49OLuGays7d.flv
+重温经典,http://pullpackage.alivecdn.com/live/8U6M6iYBSsicB3rv3yvMzd66nIi2gsD44LiKSEPUCtroZSEm3C.flv
+澳门莲花,http://pullpackage.alivecdn.com/live/2QPHCLVhtslEc6H7MUWEzddBzvm8y0QUs7QNObi6Ol7yuUjD2f.flv
+澳门资讯,http://pullpackage.alivecdn.com/live/4sZT1RkCLwTIl9hRr9xgkoCqH1L01QRzddBzdzlZfKhXepWOYm.flv
+澳门Macau效,http://pullpackage.alivecdn.com/live/5UkJ3Oc5HNcKd6Uhduunsgqm3zddBzYb24DD0wazRIEvcTWWxu.flv
+澳视澳门,http://pullpackage.alivecdn.com/live/QXMnr77reTmmbWiTQjlNFc2rcUOawcB5vQzddBztD8Z686YrsM.flv
+澳门体育,http://pullpackage.alivecdn.com/live/VAAgnuA8683Aas1WXMKdl8iczx5QI6lBUBzddBzW4sRGmt4xap.flv
+澳门综合,http://pullpackage.alivecdn.com/live/VAAgnuA8683Aas1WXMKdl8iczx5QI6lBUBzddBzW4sRGmt4xap.flv
+
+ 
+ 
+ 
+凤凰资讯,http://219.145.93.74:10000/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0$陕西电信酒店
+凤凰中文,http://220.169.109.72:802/udp/239.76.253.135:9000$湖南/怀化/电信
+凤凰资讯,http://220.169.109.72:802/udp/239.76.253.134:9000$湖南/怀化/电信
+凤凰中文,http://123.174.106.183:8888/udp/239.1.1.126:8126$山西电信
+凤凰资讯,http://123.174.106.183:8888/udp/239.1.1.127:8127$山西电信
+凤凰中文,http://58.19.180.108:9981/stream/channelid/1749482778?profile=pass$襄阳联通
+凤凰资讯,http://58.19.180.108:9981/stream/channelid/708272803?profile=pass$襄阳联通
+
+TVB星河,http://117.141.162.238:8181/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&authid=0$广西联通
+星空卫视,http://iot-mqqt.111yao.cn:8080/live/diyp_xingkong.m3u8
+星空音乐,http://iot-mqqt.111yao.cn:8080/live/diyp_channelv.m3u8
+凤凰电影,http://39.107.120.164:8080/live/diyp_fhdy.m3u8
+亚洲卫视,https://p2hs.vzan.com/slowlive/821481626725612419/live.m3u8$官网
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8$官网
+环球电视,http://utv1.hqtvzb.com:9999/hls/world.m3u8$官网
+香港C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/index.m3u8$官网
+
+🇹🇼台湾,#genre#
+温馨提醒:设置超时30秒最佳,https://i.uik.cc/view.php/f8576ff37fa8b87696b6a0db283fd201.mp4
+中天新闻,http://5.44.249.130:5002/ts/8i2mwhruaecye9fa.ts
+中天CTI+,http://pullpackage.alivecdn.com/live/bfd2yczrTFqK7nEAJybacKGcrnLdslNp5YcphockmQnscq2S1p.flv
+TVBS新闻,http://pullpackage.alivecdn.com/live/AocNA7nvWaoTEOU1kWJnR67lprbfd2y0CHqgjYOaOYV5JSmoP2.flv
+三立新闻,http://pullpackage.alivecdn.com/live/GDGMQBLKWMPhyKJYSPPR6dnb2lS3FvykpFuj8AZf19Mbfd2yjx.flv
+三立iNEWS,http://pullpackage.alivecdn.com/live/s1MnZyvakgihRsIVdMDeWvkbf3Da2Krbfd2yT1fV3lo74wZSW0.flv
+中视新闻,http://pullpackage.alivecdn.com/live/hNsy4N2Ykbfd2ywCSlOqFQ1aSenAhZLYUenP1IoaAltR3IXYOp.flv
+台视新闻,http://pullpackage.alivecdn.com/live/ofFqVir8hEYxZDb6y677FJxn0xrbfd2yPfOT6XuHngNXajvBUY.flv
+
+中天新闻,http://pullpackage.alivecdn.com/live/ogVoQHdbfd2ydsH4o82zYFquhPEy4XWeWisjW2fHs4Oew26P63.flv
+东森新闻,http://pullpackage.alivecdn.com/live/IfhEdN30gjBbSbfd2ySSKGFHHl6JFBwhgtYpQxoGIKytCfl1hl.flv
+东森新闻(美),http://pullpackage.alivecdn.com/live/Q6dIFsHxR2r9pqtq3qj8UT4oiUNO4ShbiuR7tArXo2R9KttNex.flv
+寰宇新闻,http://pullpackage.alivecdn.com/live/3cDvCNnbfd2yBiEhqihpaWdiHXNv7HnTEMRGcac8hxFeC1F9j6.flv
+寰宇新闻台湾,http://pullpackage.alivecdn.com/live/KJ6iYBSlimt4muXGPpWC18ZsfO94cpt5jUEV0Qh6EhuxPAMupr.flv
+民视新闻,http://pullpackage.alivecdn.com/live/5CkUiYhpTaUWibfd2yVPulg2rBioJ6XgbbmxF2hWNQyygV2U12.flv
+年代新闻,http://pullpackage.alivecdn.com/live/ruqTd9DCQm8ZG3MvLBN6uqJ6DB6owtfo2R9Kvitv9fNrV82Z1V.flv
+非凡新闻,http://pullpackage.alivecdn.com/live/sfJwT8pItQWo2R9KeTnXWyitDENDKddYAZwQVRtqTvKqVqyMJH.flv
+镜新闻,http://pullpackage.alivecdn.com/live/4ef3bV1oG7KBJy3bfd2ybfSDto8eDzUvR0mWv5oKB6nemLkT4c.flv
+民视,http://pullpackage.alivecdn.com/live/ERadomiHho2R9KVLuQH0M1KoLqTYrGUZBRAAxPowEwb8JN2Yf0.flv
+中视,http://pullpackage.alivecdn.com/live/ShLJKgSj71R4wf0v8TfYoSUE68hUT0uREPo2R9KGe0pgDFxpIw.flv
+华视,http://pullpackage.alivecdn.com/live/pIo2R9K6geqWLAzPjvY5TD8d8eGRkdFBAZn8IfdKPAA57savCh.flv
+公视,http://pullpackage.alivecdn.com/live/laQyYo2R9KNEOiwM1uacLEYJs0zLZR34rbw69ivdrfQqrDqndY.flv
+台视,http://pullpackage.alivecdn.com/live/pUYRwiaacRh4uyd7o2R9KOPIPg4zbh5a9Pf7IFqlGzjcIPsKG9.flv
+TVBS HD,http://pullpackage.alivecdn.com/live/XhyG6NWlXFUuLxA75JShFUJC6ZK7Wl7b9ohSUJ8ZFuoo2R9KMv.flv
+TVBS欢乐,http://pullpackage.alivecdn.com/live/FaZ3Vo2R9KKU2bz3b7Iy6f4evzUPNgMY6vKKkn7McVbTD5AXZW.flv
+TVBS亚洲,http://pullpackage.alivecdn.com/live/mL1ArDDl4Wlhsdv2vApi0OyUYRtdBJo2R9KEYlEoAcwIN0c4bX.flv
+TVBS精采,http://pullpackage.alivecdn.com/live/0o2R9KYaU9Xvyn84tynbS8cp3vajDiOp3ZDqrurb4MEtTsSxi5.flv
+TVBS台剧,http://pullpackage.alivecdn.com/live/DMBDr5IM1o2R9KYTrRtv2GOHF7WpbaYWfblCoaPKBCnroeRU1I.flv
+民视,http://pullpackage.alivecdn.com/live/1mhkBzPF5dKnb6o2R9KKYweyRF7XIDNeRSrMnUTk3eNCnUT9mH.flv
+民视影剧,http://pullpackage.alivecdn.com/live/ELjaeHOFG9HT3UOUJ5sbRcrufQf3CnhBzPoHD2QUWoo2R9KPOG.flv
+民视旅游,http://pullpackage.alivecdn.com/live/2qpqhZBUjlExLXF0k7hrQVYo2R9KMtkYLV75nmCXapHiBbGkxq.flv
+民视综艺,http://pullpackage.alivecdn.com/live/Y7cu3cdXfTg7SVguG1INiKdj8OOjtZoZWTjto2R9K2CrUEagHT.flv
+中视经典,http://pullpackage.alivecdn.com/live/V7O2wGBxHJTcOEehdkvCuDY6MpgGBITo2R9KruhNMwDqJ9v2b6.flv
 中视菁采,http://pullpackage.alivecdn.com/live/XfHm3ppyRu5KOiRSJNo2R9KmPyrXk495722WDbci0THyG7pCm6.flv
 中天娱乐,http://pullpackage.alivecdn.com/live/pkTGSVXC7wb7lK2z3JA0VW4c2o2R9K34K3QNCNk7b7X52TSVA0.flv
 中天综合,http://pullpackage.alivecdn.com/live/n3o2R9K7fEu63G7RxCkXpHu8Nfpi546vPyjxQuOl0aOAoViP2L.flv
