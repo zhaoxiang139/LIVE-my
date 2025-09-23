@@ -282,6 +282,9 @@ https://cdn-1.pishow.tv/live/224/master.m3u8
 测试,https://stitcher.pluto.tv/stitch/hls/channel/64b585f84ea480000838e446/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=3f216d54-89ce-11f0-bb80-a65b87ada6d9
 深圳卫视,https://cdn3.163189.xyz/163189/szws4k
 4K南国都市频道,http://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=140110ae3d6c936a77f94c4f4d85b0d3&txTime=18d57929bd4
+CHC动作电影,http://hlsbkmgsplive.miguvideo.com/wd_r3/cnr/chcjtyy/3000/01.m3u8?msisdn=&mtv_session=&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=
+家庭电影,http://hlsbkmgsplive.miguvideo.com/wd_r1/2018/gesee/chcdzdy/600/01.m3u8?msisdn=&mtv_session=&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=
+高清电影,http://hlsbkmgsplive.miguvideo.com/migu/kailu/chcymdy/57/20250415/01.m3u8?msisdn=&mtv_session=&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=
 
 
 
