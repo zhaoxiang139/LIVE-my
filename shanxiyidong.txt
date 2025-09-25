@@ -226,8 +226,7 @@ CETV4,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225748/1.m3u8
 CCTV13,https://cdn3.163189.xyz/163189/cctv13
 唐人卫视频道,https://ntd02.akamaized.net/HD-NY/tracks-v3a1/mono.m3u8
 五星体育,http://8.138.7.223/tv/shtv.php?id=wxty
-CCTV4K(超清),http://moyu.ip-ddns.com/php/cctv.php?id=cctv4k&q=cq
-CCTV4K(超清),http://moyu.ip-ddns.com/php/cctv.php?id=cctv4k&q=lg
+武术世界,http://zh.sqitv.com:888/hls/38/index.m3u8
 重温经典,http://api.hk.itv888.cn:8080/hls/ba0e4e5dd67/index.m3u8
 日本动画,http://122.53.222.9:9981/stream/channelid/870547344?profile=pass
 星空卫视,http://122.53.222.9:9981/stream/channelid/2084767267?profile=pass
