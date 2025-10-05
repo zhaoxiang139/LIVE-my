@@ -8,6 +8,7 @@ CCTV14,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226130/1.m3u8
 优漫卡通,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225736/1.m3u8
 嘉佳卡通,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225819/1.m3u8
 嘉佳卡通,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=wasusyt&Contentid=6000000003000025508&livemode=1&stbId=toShengfen&mode=1&$2M SD
+嘉佳卡通,webview://https://www.gdtv.cn/tvChannelDetail/66
 哈哈炫动,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226010/1.m3u8
 黑莓动画,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225772/1.m3u8
 黑莓动画,http://111.43.126.240:9003/hls/100/index.m3u8
@@ -15,6 +16,7 @@ CCTV14,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226130/1.m3u8
 浙江少儿,http://ali-vl.cztv.com/channels/lantian/channel008/360p.m3u8?a=1000&amp;d=83b26bacf5397c013aff782b2c4287d0&amp;k=c99bdac76cff6ddc27e750ba689b7d5b&amp;t=1704368408
 浙江少儿,http://123.159.33.171:85/tsfile/live/1004_1.m3u8?key=txiptv
 浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+广东少儿,webview://https://www.gdtv.cn/tvChannelDetail/54
 
 央视频道,#genre#
 CCTV1,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225655/1.m3u8
@@ -242,8 +244,6 @@ CHC动作电影,http://hlsbkmgsplive.miguvideo.com/wd_r3/cnr/chcjtyy/3000/01.m3u
 大湾区卫视（海外版）,webview://https://www.gdtv.cn/tvChannelDetail/46
 广东影视,webview://https://www.gdtv.cn/tvChannelDetail/53
 4K超高清,webview://https://www.gdtv.cn/tvChannelDetail/16
-广东少儿,webview://https://www.gdtv.cn/tvChannelDetail/54
-嘉佳卡通,webview://https://www.gdtv.cn/tvChannelDetail/66
 南方购物,webview://https://www.gdtv.cn/tvChannelDetail/42
 岭南戏曲,webview://https://www.gdtv.cn/tvChannelDetail/15
 广东移动,webview://https://www.gdtv.cn/tvChannelDetail/74
@@ -253,14 +253,6 @@ GRTN健康频道,webview://https://www.gdtv.cn/tvChannelDetail/99
 GRTN文化频道,webview://https://www.gdtv.cn/tvChannelDetail/75
 GRTN生活频道,webview://https://www.gdtv.cn/tvChannelDetail/102
 GRTN教育频道,webview://https://www.gdtv.cn/tvChannelDetail/104
-深圳卫视,webview://https://www.sztv.com.cn/dianshi.shtml?id=7867
-深圳都市,webview://https://www.sztv.com.cn/dianshi.shtml?id=7868
-深圳电视剧,webview://https://www.sztv.com.cn/dianshi.shtml?id=7880
-深圳财经,webview://https://www.sztv.com.cn/dianshi.shtml?id=7871
-深圳少儿,webview://https://www.sztv.com.cn/dianshi.shtml?id=7881
-深圳移动,webview://https://www.sztv.com.cn/dianshi.shtml?id=7869
-深圳宜和购物,webview://https://www.sztv.com.cn/dianshi.shtml?id=7878
-深圳国际,webview://https://www.sztv.com.cn/dianshi.shtml?id=7944
 
 民視台灣台,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv001
 寰宇新聞台灣台,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv156
