@@ -346,6 +346,21 @@ ELTA生活英語台,http://xtvantsc.xyz/litv_ts.php?id=litv-longturn20
 台灣戲劇台,http://xtvantsc.xyz/litv_ts.php?id=litv-longturn22
 寰宇財經台,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv158
 
+现代教育,http://tvtj1.jxwltx.com:8003/live3087.m3u8
+广州综合,http://tvtj1.jxwltx.com:8003/live3044.m3u8
+经济科教,http://tvtj1.jxwltx.com:8003/live3001.m3u8
+广州新闻,http://tvtj1.jxwltx.com:8003/live2958.m3u8
+广东体育,http://tvtj1.jxwltx.com:8003/live2915.m3u8
+广东民生,http://tvtj1.jxwltx.com:8003/dfws.m3u8
+广东新闻,http://tvtj1.jxwltx.com:8003/live2825.m3u8
+广东珠江,http://tvtj1.jxwltx.com:8003/live2897.m3u8
+广东影视,http://tvtj1.jxwltx.com:8003/live1762.m3u8
+广东少儿,http://tvtj1.jxwltx.com:8003/live1570.m3u8
+优漫卡通,http://tvtj1.jxwltx.com:8003/custom11.m3u8
+嘉佳卡通,http://tvtj1.jxwltx.com:8003/live1328.m3u8
+大湾区卫视,http://tvtj.jxwltx.com:8003/neimenggu.m3u8
+广东卫视,http://tvtj.jxwltx.com:8003/gdws.m3u8
+
 
 
 
