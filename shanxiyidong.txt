@@ -16,7 +16,6 @@ CCTV14,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226130/1.m3u8
 浙江少儿,http://ali-vl.cztv.com/channels/lantian/channel008/360p.m3u8?a=1000&amp;d=83b26bacf5397c013aff782b2c4287d0&amp;k=c99bdac76cff6ddc27e750ba689b7d5b&amp;t=1704368408
 浙江少儿,http://123.159.33.171:85/tsfile/live/1004_1.m3u8?key=txiptv
 浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
-广东少儿,webview://https://www.gdtv.cn/tvChannelDetail/54
 
 央视频道,#genre#
 CCTV1,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225655/1.m3u8
