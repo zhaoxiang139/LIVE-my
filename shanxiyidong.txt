@@ -1137,25 +1137,6 @@ CHC动作电影,http://hlsbkmgsplive.miguvideo.com/wd_r3/cnr/chcjtyy/3000/01.m3u
 家庭电影,http://hlsbkmgsplive.miguvideo.com/wd_r1/2018/gesee/chcdzdy/600/01.m3u8?msisdn=&mtv_session=&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=
 高清电影,http://hlsbkmgsplive.miguvideo.com/migu/kailu/chcymdy/57/20250415/01.m3u8?msisdn=&mtv_session=&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=
 
-广东卫视,webview://https://www.gdtv.cn/tvChannelDetail/43
-广东珠江,webview://https://www.gdtv.cn/tvChannelDetail/44
-广东新闻,webview://https://www.gdtv.cn/tvChannelDetail/45
-广东民生,webview://https://www.gdtv.cn/tvChannelDetail/48
-广东体育,webview://https://www.gdtv.cn/tvChannelDetail/47
-大湾区卫视,webview://https://www.gdtv.cn/tvChannelDetail/51
-大湾区卫视（海外版）,webview://https://www.gdtv.cn/tvChannelDetail/46
-广东影视,webview://https://www.gdtv.cn/tvChannelDetail/53
-4K超高清,webview://https://www.gdtv.cn/tvChannelDetail/16
-南方购物,webview://https://www.gdtv.cn/tvChannelDetail/42
-岭南戏曲,webview://https://www.gdtv.cn/tvChannelDetail/15
-广东移动,webview://https://www.gdtv.cn/tvChannelDetail/74
-荔枝台,webview://https://www.gdtv.cn/tvChannelDetail/100
-纪录片,webview://https://www.gdtv.cn/tvChannelDetail/94
-GRTN健康频道,webview://https://www.gdtv.cn/tvChannelDetail/99
-GRTN文化频道,webview://https://www.gdtv.cn/tvChannelDetail/75
-GRTN生活频道,webview://https://www.gdtv.cn/tvChannelDetail/102
-GRTN教育频道,webview://https://www.gdtv.cn/tvChannelDetail/104
-
 民視台灣台,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv001
 寰宇新聞台灣台,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv156
 民視,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv002
