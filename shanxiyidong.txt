@@ -1138,6 +1138,19 @@ CHC动作电影,http://hlsbkmgsplive.miguvideo.com/wd_r3/cnr/chcjtyy/3000/01.m3u
 家庭电影,http://hlsbkmgsplive.miguvideo.com/wd_r1/2018/gesee/chcdzdy/600/01.m3u8?msisdn=&mtv_session=&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=
 高清电影,http://hlsbkmgsplive.miguvideo.com/migu/kailu/chcymdy/57/20250415/01.m3u8?msisdn=&mtv_session=&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=
 
+BTV北京卫视,http://114.241.110.225:85/tsfile/live/16/1016_1.m3u8?key=txiptv
+BTV文艺,http://114.241.110.225:85/tsfile/live/17/1017_1.m3u8?key=txiptv
+BTV科教,http://114.241.110.225:85/tsfile/live/18/1018_1.m3u8?key=txiptv
+BTV影视,http://114.241.110.225:85/tsfile/live/19/1019_1.m3u8?key=txiptv
+BTV财经,http://114.241.110.225:85/tsfile/live/20/1020_1.m3u8?key=txiptv
+4K超清,http://114.241.110.225:85/tsfile/live/21/1021_1.m3u8?key=txiptv
+BTV生活,http://114.241.110.225:85/tsfile/live/22/1022_1.m3u8?key=txiptv
+CCTV5+,http://114.241.110.225:85/tsfile/live/23/1023_1.m3u8?key=txiptv
+BTV新闻,http://114.241.110.225:85/tsfile/live/24/1024_1.m3u8?key=txiptv
+BTV体育,http://114.241.110.225:85/tsfile/live/25/1025_1.m3u8?key=txiptv
+
+泸州新闻综合,http://m3u8.channel.luzhoubs.com/nmip-media/channellive/channel106011/playlist.m3u8?zsicd
+
 民視台灣台,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv001
 寰宇新聞台灣台,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv156
 民視,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv002
