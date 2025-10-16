@@ -251,6 +251,8 @@ CETV4,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225748/1.m3u8
 
 热门音乐,#genre#
 九百九十九朵玫瑰,http://em.21dtv.com/songs/100005552.mkv
+网页爬虫,https://vd3.bdstatic.com/mda-nj6dfpnkqxfgngr3/1080p/cae_h264/1665146579148529091/mda-nj6dfpnkqxfgngr3.mp4
+敬请笑纳,https://vdse.bdstatic.com//7df2102f0861ae3d79117afcf79a884d.mp4
 樱花草,http://em.21dtv.com/songs/100005856.mkv
 盗将行,http://em.21dtv.com/songs/720/100043274.mkv
 战马,http://em.21dtv.com/songs/720/100014229.mkv
@@ -1257,6 +1259,8 @@ ELTA生活英語台,http://xtvantsc.xyz/litv_ts.php?id=litv-longturn20
 嘉佳卡通,http://tvtj1.jxwltx.com:8003/live1328.m3u8
 大湾区卫视,http://tvtj.jxwltx.com:8003/neimenggu.m3u8
 广东卫视,http://tvtj.jxwltx.com:8003/gdws.m3u8
+
+影视分享,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgksy04wUo17eY6Qc.mp4
 
 
 
