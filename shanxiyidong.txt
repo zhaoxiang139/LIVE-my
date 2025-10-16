@@ -16,7 +16,6 @@ CCTV14,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226130/1.m3u8
 浙江少儿,http://ali-vl.cztv.com/channels/lantian/channel008/360p.m3u8?a=1000&amp;d=83b26bacf5397c013aff782b2c4287d0&amp;k=c99bdac76cff6ddc27e750ba689b7d5b&amp;t=1704368408
 浙江少儿,http://123.159.33.171:85/tsfile/live/1004_1.m3u8?key=txiptv
 浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
-广东少儿,http://tvtj1.jxwltx.com:8003/live1570.m3u8
 
 央视频道,#genre#
 CCTV1,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225655/1.m3u8
@@ -1139,20 +1138,6 @@ CHC动作电影,http://hlsbkmgsplive.miguvideo.com/wd_r3/cnr/chcjtyy/3000/01.m3u
 家庭电影,http://hlsbkmgsplive.miguvideo.com/wd_r1/2018/gesee/chcdzdy/600/01.m3u8?msisdn=&mtv_session=&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=
 高清电影,http://hlsbkmgsplive.miguvideo.com/migu/kailu/chcymdy/57/20250415/01.m3u8?msisdn=&mtv_session=&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=
 
-现代教育,http://tvtj1.jxwltx.com:8003/live3087.m3u8
-广州综合,http://tvtj1.jxwltx.com:8003/live3044.m3u8
-经济科教,http://tvtj1.jxwltx.com:8003/live3001.m3u8
-广州新闻,http://tvtj1.jxwltx.com:8003/live2958.m3u8
-广东体育,http://tvtj1.jxwltx.com:8003/live2915.m3u8
-广东民生,http://tvtj1.jxwltx.com:8003/dfws.m3u8
-广东新闻,http://tvtj1.jxwltx.com:8003/live2825.m3u8
-广东珠江,http://tvtj1.jxwltx.com:8003/live2897.m3u8
-广东影视,http://tvtj1.jxwltx.com:8003/live1762.m3u8
-优漫卡通,http://tvtj1.jxwltx.com:8003/custom11.m3u8
-嘉佳卡通,http://tvtj1.jxwltx.com:8003/live1328.m3u8
-大湾区卫视,http://tvtj.jxwltx.com:8003/neimenggu.m3u8
-广东卫视,http://tvtj.jxwltx.com:8003/gdws.m3u8
-
 民視台灣台,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv001
 寰宇新聞台灣台,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv156
 民視,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv002
@@ -1245,22 +1230,7 @@ ELTA生活英語台,http://xtvantsc.xyz/litv_ts.php?id=litv-longturn20
 台灣戲劇台,http://xtvantsc.xyz/litv_ts.php?id=litv-longturn22
 寰宇財經台,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv158
 
-现代教育,http://tvtj1.jxwltx.com:8003/live3087.m3u8
-广州综合,http://tvtj1.jxwltx.com:8003/live3044.m3u8
-经济科教,http://tvtj1.jxwltx.com:8003/live3001.m3u8
-广州新闻,http://tvtj1.jxwltx.com:8003/live2958.m3u8
-广东体育,http://tvtj1.jxwltx.com:8003/live2915.m3u8
-广东民生,http://tvtj1.jxwltx.com:8003/dfws.m3u8
-广东新闻,http://tvtj1.jxwltx.com:8003/live2825.m3u8
-广东珠江,http://tvtj1.jxwltx.com:8003/live2897.m3u8
-广东影视,http://tvtj1.jxwltx.com:8003/live1762.m3u8
-广东少儿,http://tvtj1.jxwltx.com:8003/live1570.m3u8
-优漫卡通,http://tvtj1.jxwltx.com:8003/custom11.m3u8
-嘉佳卡通,http://tvtj1.jxwltx.com:8003/live1328.m3u8
-大湾区卫视,http://tvtj.jxwltx.com:8003/neimenggu.m3u8
-广东卫视,http://tvtj.jxwltx.com:8003/gdws.m3u8
 
-影视分享,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgksy04wUo17eY6Qc.mp4
 
 
 
