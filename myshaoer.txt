@@ -1,4 +1,12 @@
 我的少儿,#genre#
+卡酷少儿,http://btjg.net:809/hls/49/index.m3u8
+卡酷少儿,http://zw.gaodazn.com:8092/hls/34/index.m3u8
+卡酷少儿,http://shuangyashan.coccc.online:65000/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1&authid=0
+金鹰卡通,http://btjg.net:809/hls/70/index.m3u8
+金鹰卡通,http://shuangyashan.coccc.online:65000/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0
+
+佳嘉卡通,http://btjg.net:809/hls/139/index.m3u8
+
 CCTV1,http://hczn.x3322.net:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV1,http://hczn.x3322.net:9902/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV2,http://hczn.x3322.net:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -85,11 +93,8 @@ GGTN英语,http://btjg.net:809/hls/115/index.m3u8
 包头经济,http://btjg.net:809/hls/28/index.m3u8
 包头生活服务,http://btjg.net:809/hls/27/index.m3u8
 包头新闻综合,http://btjg.net:809/hls/26/index.m3u8
-佳嘉卡通,http://btjg.net:809/hls/139/index.m3u8
 家有购物,http://btjg.net:809/hls/151/index.m3u8
 金鹰纪实,http://btjg.net:809/hls/136/index.m3u8
-金鹰卡通,http://btjg.net:809/hls/70/index.m3u8
-卡酷少儿,http://btjg.net:809/hls/49/index.m3u8
 内蒙古经济生活,http://btjg.net:809/hls/20/index.m3u8
 内蒙古蒙语文化,http://btjg.net:809/hls/24/index.m3u8
 内蒙古农牧,http://btjg.net:809/hls/22/index.m3u8
@@ -148,7 +153,6 @@ CCTV14+,http://zw.gaodazn.com:8092/hls/14/index.m3u8
 河北影视,http://zw.gaodazn.com:8092/hls/18/index.m3u8
 石家庄都市,http://zw.gaodazn.com:8092/hls/21/index.m3u8
 石家庄生活,http://zw.gaodazn.com:8092/hls/22/index.m3u8
-卡酷少儿,http://zw.gaodazn.com:8092/hls/34/index.m3u8
 农民,http://zw.gaodazn.com:8092/hls/16/index.m3u8
 CCTV1,http://zzssw01.55555.io:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV2,http://zzssw01.55555.io:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -231,8 +235,6 @@ CCTV少儿,http://shuangyashan.coccc.online:65000/tsfile/live/1024_1.m3u8?key=tx
 黑龙江新闻法治,http://shuangyashan.coccc.online:65000/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0
 黑龙江影视,http://shuangyashan.coccc.online:65000/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
 山东教育,http://shuangyashan.coccc.online:65000/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0
-金鹰卡通,http://shuangyashan.coccc.online:65000/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0
-卡酷少儿,http://shuangyashan.coccc.online:65000/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV1,http://adsl03.sdjg.vip:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV2,http://adsl03.sdjg.vip:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV少儿,http://adsl03.sdjg.vip:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
