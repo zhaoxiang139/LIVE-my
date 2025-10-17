@@ -1,11 +1,15 @@
 我的少儿,#genre#
 卡酷少儿,http://btjg.net:809/hls/49/index.m3u8
 卡酷少儿,http://zw.gaodazn.com:8092/hls/34/index.m3u8
+卡酷少儿,http://hbhy205u8.ufyct.com:1088/hls/83/index.m3u8
 卡酷少儿,http://shuangyashan.coccc.online:65000/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1&authid=0
+卡酷少儿,http://tpc.x3322.net:9901/tsfile/live/1043_1.m3u8?key=txiptv&playlive=1&authid=0
 金鹰卡通,http://btjg.net:809/hls/70/index.m3u8
 金鹰卡通,http://shuangyashan.coccc.online:65000/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0
-
 佳嘉卡通,http://btjg.net:809/hls/139/index.m3u8
+哈哈炫动,http://tpc.x3322.net:9901/tsfile/live/1045_1.m3u8?key=txiptv&playlive=1&authid=0
+黑莓动画,http://tv7.667789.cn:88/hls/79/index.m3u8
+黑龙江少儿,http://shuangyashan.coccc.online:65000/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
 
 CCTV1,http://hczn.x3322.net:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV1,http://hczn.x3322.net:9902/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -230,7 +234,6 @@ CCTV少儿,http://shuangyashan.coccc.online:65000/tsfile/live/1024_1.m3u8?key=tx
 浙江卫视,http://shuangyashan.coccc.online:65000/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
 黑龙江都市,http://shuangyashan.coccc.online:65000/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0
 黑龙江公共,http://shuangyashan.coccc.online:65000/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0
-黑龙江少儿,http://shuangyashan.coccc.online:65000/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
 黑龙江文体,http://shuangyashan.coccc.online:65000/tsfile/live/1026_1.m3u8?key=txiptv&playlive=1&authid=0
 黑龙江新闻法治,http://shuangyashan.coccc.online:65000/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0
 黑龙江影视,http://shuangyashan.coccc.online:65000/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -335,7 +338,6 @@ CGTN英语,http://tpc.x3322.net:9901/tsfile/live/1058_1.m3u8?key=txiptv&playlive
 法制天地,http://tpc.x3322.net:9901/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
 高尔夫,http://tpc.x3322.net:9901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0
 国学,http://tpc.x3322.net:9901/tsfile/live/1048_1.m3u8?key=txiptv&playlive=1&authid=0
-哈哈炫动,http://tpc.x3322.net:9901/tsfile/live/1045_1.m3u8?key=txiptv&playlive=1&authid=0
 吉林都市,http://tpc.x3322.net:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 吉林教育,http://tpc.x3322.net:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 吉林生活,http://tpc.x3322.net:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -350,7 +352,6 @@ CGTN英语,http://tpc.x3322.net:9901/tsfile/live/1058_1.m3u8?key=txiptv&playlive
 睛彩竞技,http://tpc.x3322.net:9901/tsfile/live/1049_1.m3u8?key=txiptv&playlive=1&authid=0
 睛彩篮球,http://tpc.x3322.net:9901/tsfile/live/1050_1.m3u8?key=txiptv&playlive=1&authid=0
 睛彩羽毛球,http://tpc.x3322.net:9901/tsfile/live/1065_1.m3u8?key=txiptv&playlive=1&authid=0
-卡酷少儿,http://tpc.x3322.net:9901/tsfile/live/1043_1.m3u8?key=txiptv&playlive=1&authid=0
 快乐垂钓,http://tpc.x3322.net:9901/tsfile/live/1054_1.m3u8?key=txiptv&playlive=1&authid=0
 老故事,http://tpc.x3322.net:9901/tsfile/live/1047_1.m3u8?key=txiptv&playlive=1&authid=0
 乐游,http://tpc.x3322.net:9901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -436,7 +437,6 @@ CETV1,http://hbhy205u8.ufyct.com:1088/hls/67/index.m3u8
 纪实人文,http://hbhy205u8.ufyct.com:1088/hls/108/index.m3u8
 金鹰卡通,http://hbhy205u8.ufyct.com:1088/hls/72/index.m3u8
 经典电影,http://hbhy205u8.ufyct.com:1088/hls/103/index.m3u8
-卡酷少儿,http://hbhy205u8.ufyct.com:1088/hls/83/index.m3u8
 魅力时尚,http://hbhy205u8.ufyct.com:1088/hls/102/index.m3u8
 热播剧场,http://hbhy205u8.ufyct.com:1088/hls/104/index.m3u8
 上海东方,http://hbhy205u8.ufyct.com:1088/hls/77/index.m3u8
@@ -591,7 +591,6 @@ CCTV17,http://tv7.667789.cn:88/hls/17/index.m3u8
 风云音乐,http://tv7.667789.cn:88/hls/115/index.m3u8
 香港卫视,http://tv7.667789.cn:88/hls/70/index.m3u8
 Citv都市剧场,http://tv7.667789.cn:88/hls/80/index.m3u8
-黑莓动画,http://tv7.667789.cn:88/hls/79/index.m3u8
 武术世界,http://tv7.667789.cn:88/hls/128/index.m3u8
 茶,http://tv7.667789.cn:88/hls/109/index.m3u8
 经典剧场,http://tv7.667789.cn:88/hls/83/index.m3u8
