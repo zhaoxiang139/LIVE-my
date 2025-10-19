@@ -252,9 +252,6 @@ CETV4,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225748/1.m3u8
 九百九十九朵玫瑰,http://em.21dtv.com/songs/100005552.mkv
 新送情郎,https://vd3.bdstatic.com/mda-nj6dfpnkqxfgngr3/1080p/cae_h264/1665146579148529091/mda-nj6dfpnkqxfgngr3.mp4
 敬请笑纳,https://vdse.bdstatic.com//7df2102f0861ae3d79117afcf79a884d.mp4
-樱花草,http://em.21dtv.com/songs/100005856.mkv
-盗将行,http://em.21dtv.com/songs/720/100043274.mkv
-战马,http://em.21dtv.com/songs/720/100014229.mkv
 世界第一等,http://em.21dtv.com/songs/720/100009647.mkv
 阿果吉曲,http://mobi.kuwo.cn/tmevideo/tme1257695.mp4
 烟雨人间,http://mobi.kuwo.cn/tmevideo/tme1257648.mp4
