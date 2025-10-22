@@ -14,7 +14,6 @@ CCTV14,http://zzssw01.55555.io:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=
 金鹰卡通,http://218.94.31.154:1111/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
 佳嘉卡通,http://btjg.net:809/hls/139/index.m3u8
 佳嘉卡通,http://tpc.x3322.net:9901/tsfile/live/1046_1.m3u8?key=txiptv&playlive=1&authid=0
-哈哈炫动,http://tpc.x3322.net:9901/tsfile/live/1045_1.m3u8?key=txiptv&playlive=1&authid=0
 黑莓动画,http://tv7.667789.cn:88/hls/79/index.m3u8
 黑莓动画,http://2323.667789.cn:88/hls/79/index.m3u8
 黑莓动画,http://123123.667789.cn:88/hls/79/index.m3u8
