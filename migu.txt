@@ -2,6 +2,7 @@
 CCTV14, http://183.234.97.47:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-14H265_4000.m3u8$刚哥无敌
 卡酷少儿, http://183.234.97.47:2380/hw1live.rxip.sc96655.com.huan.tv/live/kkkt_4000.m3u8$刚哥无敌
 金鹰卡通, http://183.234.97.47:2380/hw1live.rxip.sc96655.com.huan.tv/live/jykt_2000.m3u8$刚哥无敌
+嘉佳卡通, http://183.234.97.47:2380/hw1live.rxip.sc96655.com.huan.tv/live/jjkt_2000.m3u8$刚哥无敌
 动漫秀场, http://183.234.97.47:2380/hw1live.rxip.sc96655.com.huan.tv/live/yybb-dmxc-H265_4000.m3u8$刚哥无敌
 内蒙古少儿,http://play1-qk.nmtv.cn/live/1686560464515368.m3u8
 浙江少儿,http://ali-vl.cztv.com/channels/lantian/channel008/360p.m3u8?a=1000&amp;d=83b26bacf5397c013aff782b2c4287d0&amp;k=c99bdac76cff6ddc27e750ba689b7d5b&amp;t=1704368408
@@ -29,10 +30,28 @@ CCTV13, http://183.234.97.47:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-xw_
 CCTV15, http://183.234.97.47:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-15-yyH265_4000.m3u8$刚哥无敌
 CCTV16, http://183.234.97.47:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-16_4000.m3u8$刚哥无敌
 CCTV17, http://183.234.97.47:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-17_4000.m3u8$刚哥无敌
+中国天气, http://183.234.97.47:2380/hw1live.rxip.sc96655.com.huan.tv/live/zgqx_4000.m3u8$刚哥无敌
+CHC动作电影, http://183.234.97.47:2380/hw1live.rxip.sc96655.com.huan.tv/live/wqCHCdzdyH265_4000.m3u8$刚哥无敌
+CHC高清电影, http://183.234.97.47:2380/hw1live.rxip.sc96655.com.huan.tv/live/lnwsCHC-HDH265_4000.m3u8$刚哥无敌
+CHC家庭影院, http://183.234.97.47:2380/hw1live.rxip.sc96655.com.huan.tv/live/jbtygqCHCjtyyH265_4000.m3u8$刚哥无敌
+都市剧场, http://183.234.97.47:2380/hw1live.rxip.sc96655.com.huan.tv/live/yxfydsjcHDH265_4000.m3u8$刚哥无敌
+法治天地, http://183.234.97.47:2380/hw1live.rxip.sc96655.com.huan.tv/live/fztx_4000.m3u8$刚哥无敌
+金鹰纪实, http://183.234.97.47:2380/hw1live.rxip.sc96655.com.huan.tv/live/jyjsHDH265_4000.m3u8$刚哥无敌
+劲爆体育, http://183.234.97.47:2380/hw1live.rxip.sc96655.com.huan.tv/live/lqhxjcHDH265_4000.m3u8$刚哥无敌
+快乐垂钓, http://183.234.97.47:2380/hw1live.rxip.sc96655.com.huan.tv/live/fyzqklcdHDH265_4000.m3u8$刚哥无敌
+乐游, http://183.234.97.47:2380/hw1live.rxip.sc96655.com.huan.tv/live/qjs-HDH265_4000.m3u8$刚哥无敌
+梨园频道, http://183.234.97.47:2380/hw1live.rxip.sc96655.com.huan.tv/live/ly_4000.m3u8$刚哥无敌
+生活时尚, http://183.234.97.47:2380/hw1live.rxip.sc96655.com.huan.tv/live/shssH265_4000.m3u8$刚哥无敌
+天元围棋, http://183.234.97.47:2380/hw1live.rxip.sc96655.com.huan.tv/live/tywq_2000.m3u8$刚哥无敌
+武术世界, http://183.234.97.47:2380/hw1live.rxip.sc96655.com.huan.tv/live/wssj_4000.m3u8$刚哥无敌
+新视觉, http://183.234.97.47:2380/hw1live.rxip.sc96655.com.huan.tv/live/ycxsjH265_4000.m3u8$刚哥无敌
+纪实科教, http://183.234.97.47:2380/hw1live.rxip.sc96655.com.huan.tv/live/bjjs_2000.m3u8$刚哥无敌
+财富天下, http://183.234.97.47:2380/hw1live.rxip.sc96655.com.huan.tv/live/cftx_4000.m3u8$刚哥无敌
+四海钓鱼, http://183.234.97.47:2380/hw1live.rxip.sc96655.com.huan.tv/live/shdy_4000.m3u8$刚哥无敌
+先锋乒羽, http://183.234.97.47:2380/hw1live.rxip.sc96655.com.huan.tv/live/xfpy_4000.m3u8$刚哥无敌
 CCTV-4K, http://183.234.97.47:2380/hw1live.rxip.sc96655.com.huan.tv/live/ys4Kcq_2000.m3u8$刚哥无敌
 
 小果四川卫视频道,#genre#
-
 北京卫视, http://183.234.97.47:2380/hw1live.rxip.sc96655.com.huan.tv/live/bjwsH265_4000.m3u8$刚哥无敌
 湖南卫视, http://183.234.97.47:2380/hw1live.rxip.sc96655.com.huan.tv/live/hnwsH265_4000.m3u8$刚哥无敌
 四川卫视, http://183.234.97.47:2380/hw1live.rxip.sc96655.com.huan.tv/live/scwsH265_4000.m3u8$刚哥无敌
@@ -76,20 +95,6 @@ CCTV-4K, http://183.234.97.47:2380/hw1live.rxip.sc96655.com.huan.tv/live/ys4Kcq_
 遂宁综合, http://183.234.97.47:2380/hw1live.rxip.sc96655.com.huan.tv/live/snxwzhHDH265_4000.m3u8$刚哥无敌
 射洪综合, http://183.234.97.47:2380/hw1live.rxip.sc96655.com.huan.tv/live/shzhH264_2000.m3u8$刚哥无敌
 中江综合, http://183.234.97.47:2380/hw1live.rxip.sc96655.com.huan.tv/live/zjxwzh_2000.m3u8$刚哥无敌
-CHC动作电影, http://183.234.97.47:2380/hw1live.rxip.sc96655.com.huan.tv/live/wqCHCdzdyH265_4000.m3u8$刚哥无敌
-CHC高清电影, http://183.234.97.47:2380/hw1live.rxip.sc96655.com.huan.tv/live/lnwsCHC-HDH265_4000.m3u8$刚哥无敌
-CHC家庭影院, http://183.234.97.47:2380/hw1live.rxip.sc96655.com.huan.tv/live/jbtygqCHCjtyyH265_4000.m3u8$刚哥无敌
-都市剧场, http://183.234.97.47:2380/hw1live.rxip.sc96655.com.huan.tv/live/yxfydsjcHDH265_4000.m3u8$刚哥无敌
-法治天地, http://183.234.97.47:2380/hw1live.rxip.sc96655.com.huan.tv/live/fztx_4000.m3u8$刚哥无敌
-金鹰纪实, http://183.234.97.47:2380/hw1live.rxip.sc96655.com.huan.tv/live/jyjsHDH265_4000.m3u8$刚哥无敌
-劲爆体育, http://183.234.97.47:2380/hw1live.rxip.sc96655.com.huan.tv/live/lqhxjcHDH265_4000.m3u8$刚哥无敌
-快乐垂钓, http://183.234.97.47:2380/hw1live.rxip.sc96655.com.huan.tv/live/fyzqklcdHDH265_4000.m3u8$刚哥无敌
-乐游, http://183.234.97.47:2380/hw1live.rxip.sc96655.com.huan.tv/live/qjs-HDH265_4000.m3u8$刚哥无敌
-梨园频道, http://183.234.97.47:2380/hw1live.rxip.sc96655.com.huan.tv/live/ly_4000.m3u8$刚哥无敌
-生活时尚, http://183.234.97.47:2380/hw1live.rxip.sc96655.com.huan.tv/live/shssH265_4000.m3u8$刚哥无敌
-天元围棋, http://183.234.97.47:2380/hw1live.rxip.sc96655.com.huan.tv/live/tywq_2000.m3u8$刚哥无敌
-武术世界, http://183.234.97.47:2380/hw1live.rxip.sc96655.com.huan.tv/live/wssj_4000.m3u8$刚哥无敌
-新视觉, http://183.234.97.47:2380/hw1live.rxip.sc96655.com.huan.tv/live/ycxsjH265_4000.m3u8$刚哥无敌
 川网导视, http://183.234.97.47:2380/hw1live.rxip.sc96655.com.huan.tv/live/cwdsHDH264_4000.m3u8$刚哥无敌
 精品导视, http://183.234.97.47:2380/hw1live.rxip.sc96655.com.huan.tv/live/jpdsH265_4000.m3u8$刚哥无敌
 沙湾融媒, http://183.234.97.47:2380/hw1live.rxip.sc96655.com.huan.tv/live/swxwzh_2000.m3u8$刚哥无敌
@@ -210,12 +215,6 @@ CHC家庭影院, http://183.234.97.47:2380/hw1live.rxip.sc96655.com.huan.tv/live
 珙县新闻, http://183.234.97.47:2380/hw1live.rxip.sc96655.com.huan.tv/live/gxzh_2000.m3u8$刚哥无敌
 筠连, http://183.234.97.47:2380/hw1live.rxip.sc96655.com.huan.tv/live/ylyt_2000.m3u8$刚哥无敌
 纳溪1, http://183.234.97.47:2380/hw1live.rxip.sc96655.com.huan.tv/live/nxxw_2000.m3u8$刚哥无敌
-纪实科教, http://183.234.97.47:2380/hw1live.rxip.sc96655.com.huan.tv/live/bjjs_2000.m3u8$刚哥无敌
-嘉佳卡通, http://183.234.97.47:2380/hw1live.rxip.sc96655.com.huan.tv/live/jjkt_2000.m3u8$刚哥无敌
-财富天下, http://183.234.97.47:2380/hw1live.rxip.sc96655.com.huan.tv/live/cftx_4000.m3u8$刚哥无敌
-四海钓鱼, http://183.234.97.47:2380/hw1live.rxip.sc96655.com.huan.tv/live/shdy_4000.m3u8$刚哥无敌
-先锋乒羽, http://183.234.97.47:2380/hw1live.rxip.sc96655.com.huan.tv/live/xfpy_4000.m3u8$刚哥无敌
-中国天气, http://183.234.97.47:2380/hw1live.rxip.sc96655.com.huan.tv/live/zgqx_4000.m3u8$刚哥无敌
 安居综合, http://183.234.97.47:2380/hw1live.rxip.sc96655.com.huan.tv/live/ajxw_2000.m3u8$刚哥无敌丹棱综合, http://183.234.97.47:2380/hw1live.rxip.sc96655.com.huan.tv/live/dlxwzhH265_4000.m3u8$刚哥无敌
 德昌, http://183.234.97.47:2380/hw1live.rxip.sc96655.com.huan.tv/live/dcxw_4000.m3u8$刚哥无敌
 都江堰, http://183.234.97.47:2380/hw1live.rxip.sc96655.com.huan.tv/live/djyzh_4000.m3u8$刚哥无敌
