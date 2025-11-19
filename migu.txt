@@ -3,6 +3,8 @@ CCTV14, http://183.234.97.47:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-14H
 卡酷少儿, http://183.234.97.47:2380/hw1live.rxip.sc96655.com.huan.tv/live/kkkt_4000.m3u8$刚哥无敌
 金鹰卡通, http://183.234.97.47:2380/hw1live.rxip.sc96655.com.huan.tv/live/jykt_2000.m3u8$刚哥无敌
 嘉佳卡通, http://183.234.97.47:2380/hw1live.rxip.sc96655.com.huan.tv/live/jjkt_2000.m3u8$刚哥无敌
+嘉佳卡通,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=wasusyt&Contentid=6000000003000025508&livemode=1&stbId=toShengfen&mode=1&$2M SD
+嘉佳卡通,webview://https://www.gdtv.cn/tvChannelDetail/66
 动漫秀场, http://183.234.97.47:2380/hw1live.rxip.sc96655.com.huan.tv/live/yybb-dmxc-H265_4000.m3u8$刚哥无敌
 黑莓动画,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225772/1.m3u8
 内蒙古少儿,http://play1-qk.nmtv.cn/live/1686560464515368.m3u8
@@ -14,9 +16,7 @@ CCTV14, http://183.234.97.47:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-14H
 睛彩广场舞,http://221.181.100.64/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011523&livemode=1&stbId=m
 
 四川科教,http://182.150.115.21:8030/pcgacg/pcgacg_0.m3u8
-四川营山电视台,http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8
 四川营山电视台,http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8?zsicd
-四川金堂电视台,http://live.jtxwzx.com.cn:80/jtdst/hd/live.m3u8
 四川长宁综合,http://cnpull.sccnfb.com/live/123456.m3u8?zsicd
 四川自贡综合,http://110.189.153.160:1001/zhpd.flv?zsicd
 四川甘孜综合,http://tv.drs.ganzitv.com:8100/channellive/gztv.flv?zsicd
