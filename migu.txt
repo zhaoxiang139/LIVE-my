@@ -18,49 +18,43 @@ CCTV14,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226130/1.m3u8
 
 测试频道,#genre#
 睛彩广场舞,http://221.181.100.64/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011523&livemode=1&stbId=m
-☆1-综合,http://110.42.63.57:1222/live/miguHD.php?id=CCTV1
-☆2-财经,http://110.42.63.57:1222/live/miguHD.php?id=CCTV2
-☆3-综艺,http://110.42.63.57:1222/live/miguHD.php?id=CCTV3
-☆4-国际,http://110.42.63.57:1222/live/miguHD.php?id=CCTV4
-☆5-体育,http://110.42.63.57:1222/live/miguHD.php?id=CCTV5
-☆6-电影,http://110.42.63.57:1222/live/miguHD.php?id=CCTV6
-☆7-军农,http://110.42.63.57:1222/live/miguHD.php?id=CCTV7
-☆8-电视剧,http://110.42.63.57:1222/live/miguHD.php?id=CCTV8
-☆9-纪录,http://110.42.63.57:1222/live/miguHD.php?id=CCTV9
-☆10-科教,http://110.42.63.57:1222/live/miguHD.php?id=CCTV10
-☆11-戏曲,http://110.42.63.57:1222/live/miguHD.php?id=CCTV11
-☆12-社会与法,http://110.42.63.57:1222/live/miguHD.php?id=CCTV12
-☆13-新闻,http://110.42.63.57:1222/live/miguHD.php?id=CCTV13
-☆14-少儿,http://110.42.63.57:1222/live/miguHD.php?id=CCTV14
-☆15-音乐,http://110.42.63.57:1222/live/miguHD.php?id=CCTV15
-☆16奥利匹克,http://163.142.186.48:9901/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
-☆16奥利匹克,http://163.142.186.49:9901/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
-☆16奥利匹克,http://163.142.186.56:9901/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
-☆17-农村,http://110.42.63.57:1222/live/miguHD.php?id=CCTV17
-东方卫视,http://110.42.63.57:1222/live/miguHD.php?id=%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86
-江西卫视,http://110.42.63.57:1222/live/miguHD.php?id=%E6%B1%9F%E8%A5%BF%E5%8D%AB%E8%A7%86
-新疆卫视,http://110.42.63.57:1222/live/dft/xinjiang/xinjiang.php?id=xjws
-海南卫视,http://110.42.63.57:1222/live/dft/hainan/hainan.php?id=hnws
-西藏卫视,http://110.42.63.57:1222/live/dft/xizang/xizang.php?id=xzws
-藏语卫视,http://110.42.63.57:1222/live/dft/xizang/xizang.php?id=xzzy
-深圳卫视,http://110.42.63.57:1222/live/dft/guangdong/shenzhen.php?id=szws
-海峡卫视,http://110.42.63.57:1222/live/dft/fujian/haibo.php?id=hxws
-内蒙古卫视,http://110.42.63.57:1222/live/dft/neimeng/neimeng.php?id=nmws
-内蒙古语,http://110.42.63.57:1222/live/dft/neimeng/neimeng.php?id=nmmyws
-CHC影迷,http://110.42.63.57:1222/live/miguHD.php?id=CHC%E5%BD%B1%E8%BF%B7%E7%94%B5%E5%BD%B1
-CHC家庭,http://110.42.63.57:1222/live/miguHD.php?id=CHC%E5%AE%B6%E5%BA%AD%E5%BD%B1%E9%99%A2
-CHC动作,http://110.42.63.57:1222/live/miguHD.php?id=CHC%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1
-北京卫视,http://go.bkpcp.top/mg/bjws
-东方卫视,http://go.bkpcp.top/mg/dfws
-浙江卫视,http://go.bkpcp.top/mg/zjws
-江苏卫视,http://go.bkpcp.top/mg/jsws
-湖南卫视,http://go.bkpcp.top/mg/hunws
-广东卫视,http://go.bkpcp.top/mg/gdws
-山东卫视,http://go.bkpcp.top/mg/sdws
-河南卫视,http://go.bkpcp.top/mg/hnws
-江西卫视,http://go.bkpcp.top/mg/jxws
-湖北卫视,http://go.bkpmg/btwscp.top/mg/hubws
-海南卫视,http://go.bkpcp.top/mg/hinws
-陕西卫视,http://go.bkpcp.top/mg/sxws
-兵团卫视,http://go.bkpcp.top/
-黑龙江视,http://go.bkpcp.top/mg/hljws
+
+小果央视,#genre#
+CCTV1, http://183.234.97.47:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-1H265_4000.m3u8$刚哥无敌
+CCTV2, http://183.234.97.47:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-2H265_4000.m3u8$刚哥无敌
+CCTV3, http://183.234.97.47:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-3H265_4000.m3u8$刚哥无敌
+CCTV4, http://183.234.97.47:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-4H265_4000.m3u8$刚哥无敌
+CCTV5, http://183.234.97.47:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-5H265_4000.m3u8$刚哥无敌
+CCTV5+, http://183.234.97.47:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-5plusH265_4000.m3u8$刚哥无敌
+CCTV6, http://183.234.97.47:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-6H265_4000.m3u8$刚哥无敌
+CCTV7, http://183.234.97.47:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-7H265_4000.m3u8$刚哥无敌
+CCTV8, http://183.234.97.47:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-8H265_4000.m3u8$刚哥无敌
+CCTV9, http://183.234.97.47:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-9H265_4000.m3u8$刚哥无敌
+CCTV10, http://183.234.97.47:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-10H265_4000.m3u8$刚哥无敌
+CCTV11, http://183.234.97.47:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-11-H265_4000.m3u8$刚哥无敌
+CCTV12, http://183.234.97.47:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-12H265_4000.m3u8$刚哥无敌
+CCTV13, http://183.234.97.47:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-xw_4000.m3u8$刚哥无敌
+CCTV14, http://183.234.97.47:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-14H265_4000.m3u8$刚哥无敌
+CCTV15, http://183.234.97.47:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-15-yyH265_4000.m3u8$刚哥无敌
+CCTV16, http://183.234.97.47:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-16_4000.m3u8$刚哥无敌
+CCTV17, http://183.234.97.47:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-17_4000.m3u8$刚哥无敌
+CCTV-4K, http://183.234.97.47:2380/hw1live.rxip.sc96655.com.huan.tv/live/ys4Kcq_2000.m3u8$刚哥无敌
+北京卫视, http://183.234.97.47:2380/hw1live.rxip.sc96655.com.huan.tv/live/bjwsH265_4000.m3u8$刚哥无敌
+湖南卫视, http://183.234.97.47:2380/hw1live.rxip.sc96655.com.huan.tv/live/hnwsH265_4000.m3u8$刚哥无敌
+四川卫视, http://183.234.97.47:2380/hw1live.rxip.sc96655.com.huan.tv/live/scwsH265_4000.m3u8$刚哥无敌
+重庆卫视, http://183.234.97.47:2380/hw1live.rxip.sc96655.com.huan.tv/live/cqwsH265_4000.m3u8$刚哥无敌
+安徽卫视, http://183.234.97.47:2380/hw1live.rxip.sc96655.com.huan.tv/live/ahwsH265_4000.m3u8$刚哥无敌
+东方卫视, http://183.234.97.47:2380/hw1live.rxip.sc96655.com.huan.tv/live/dfwsH265_4000.m3u8$刚哥无敌
+东南卫视, http://183.234.97.47:2380/hw1live.rxip.sc96655.com.huan.tv/live/dnwsfjwsH265_4000.m3u8$刚哥无敌
+甘肃卫视, http://183.234.97.47:2380/hw1live.rxip.sc96655.com.huan.tv/live/gsws_4000.m3u8$刚哥无敌
+广东卫视, http://183.234.97.47:2380/hw1live.rxip.sc96655.com.huan.tv/live/gdwsH265_4000.m3u8$刚哥无敌
+广西卫视, http://183.234.97.47:2380/hw1live.rxip.sc96655.com.huan.tv/live/gxws_4000.m3u8$刚哥无敌
+贵州卫视, http://183.234.97.47:2380/hw1live.rxip.sc96655.com.huan.tv/live/gzwsH265_4000.m3u8$刚哥无敌
+河南卫视, http://183.234.97.47:2380/hw1live.rxip.sc96655.com.huan.tv/live/hnws35_4000.m3u8$刚哥无敌
+湖北卫视, http://183.234.97.47:2380/hw1live.rxip.sc96655.com.huan.tv/live/hbwsH265_4000.m3u8$刚哥无敌
+吉林卫视, http://183.234.97.47:2380/hw1live.rxip.sc96655.com.huan.tv/live/jlwsH265_4000.m3u8$刚哥无敌
+江苏卫视, http://183.234.97.47:2380/hw1live.rxip.sc96655.com.huan.tv/live/jswsH265_4000.m3u8$刚哥无敌
+江西卫视, http://183.234.97.47:2380/hw1live.rxip.sc96655.com.huan.tv/live/jxwsH265_4000.m3u8$刚哥无敌
+辽宁卫视, http://183.234.97.47:2380/hw1live.rxip.sc96655.com.huan.tv/live/lnwsHDH264_4000.m3u8$刚哥无敌
+山东卫视, http://183.234.97.47:2380/hw1live.rxip.sc96655.com.huan.tv/live/sdwsH265_4000.m3u8$刚哥无敌
+山西卫视, http://183.234.97.47:2380/hw1live.rxip.sc96655.com.huan.tv/live/sxws42_4000.m3u8$刚哥无敌
