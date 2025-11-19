@@ -1,21 +1,21 @@
 我的少儿,#genre#
+CCTV-14 少儿,http://122.114.131.154:4060/hls/14/index.m3u8
 CCTV14,http://btjg.net:809/hls/14/index.m3u8
 CCTV14,http://zzssw01.55555.io:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-14 少儿,http://122.114.131.154:4060/hls/14/index.m3u8
 北京卡酷少儿,http://122.114.131.154:4060/hls/33/index.m3u8
-湖南金鹰卡通,http://122.114.131.154:4060/hls/34/index.m3u8
-嘉佳卡通,http://122.114.131.154:4060/hls/35/index.m3u8
 卡酷少儿,http://btjg.net:809/hls/49/index.m3u8
 卡酷少儿,http://zw.gaodazn.com:8092/hls/34/index.m3u8
 卡酷少儿,http://hbhy205u8.ufyct.com:1088/hls/83/index.m3u8
 卡酷少儿,http://oa.huayuzhongqin.com:1088/hls/83/index.m3u8
 卡酷少儿,http://shuangyashan.coccc.online:65000/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1&authid=0
 卡酷少儿,http://tpc.x3322.net:9901/tsfile/live/1043_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南金鹰卡通,http://122.114.131.154:4060/hls/34/index.m3u8
 金鹰卡通,http://btjg.net:809/hls/70/index.m3u8
 金鹰卡通,http://oa.huayuzhongqin.com:1088/hls/72/index.m3u8
 金鹰卡通,http://hbhy205u8.ufyct.com:1088/hls/72/index.m3u8
 金鹰卡通,http://shuangyashan.coccc.online:65000/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0
 金鹰卡通,http://218.94.31.154:1111/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
+嘉佳卡通,http://122.114.131.154:4060/hls/35/index.m3u8
 佳嘉卡通,http://btjg.net:809/hls/139/index.m3u8
 佳嘉卡通,http://tpc.x3322.net:9901/tsfile/live/1046_1.m3u8?key=txiptv&playlive=1&authid=0
 黑莓动画,http://tv7.667789.cn:88/hls/79/index.m3u8
