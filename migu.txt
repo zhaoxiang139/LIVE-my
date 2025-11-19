@@ -1,5 +1,5 @@
 小果四川少儿,#genre#
-CCTV14, http://183.234.97.47:2480/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-14H265_4000.m3u8$刚哥无敌
+CCTV14, http://183.234.97.47:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-14H265_4000.m3u8$刚哥无敌
 卡酷少儿, http://183.234.97.47:2380/hw1live.rxip.sc96655.com.huan.tv/live/kkkt_4000.m3u8$刚哥无敌
 金鹰卡通, http://183.234.97.47:2380/hw1live.rxip.sc96655.com.huan.tv/live/jykt_2000.m3u8$刚哥无敌
 嘉佳卡通, http://183.234.97.47:2380/hw1live.rxip.sc96655.com.huan.tv/live/jjkt_2000.m3u8$刚哥无敌
