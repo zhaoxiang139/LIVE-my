@@ -1,12 +1,4 @@
- #EXTM3U
-#EXTINF:-1 tvg-name="CCTV14" group-title="二毛的少儿频道",CCTV-14 少儿
-http://125.40.199.223:8092/hls/14/index.m3u8
-#EXTINF:-1 tvg-name="北京卡酷少儿" group-title="二毛的少儿频道",北京卡酷少儿
-http://122.114.131.154:4060/hls/33/index.m3u8
-#EXTINF:-1 tvg-name="湖南金鹰卡通" group-title="二毛的少儿频道",湖南金鹰卡通
-http://122.114.131.154:4060/hls/34/index.m3u8
-#EXTINF:-1 tvg-name="嘉佳卡通" group-title="二毛的少儿频道",嘉佳卡通
-http://122.114.131.154:4060/hls/35/index.m3u8
+#EXTM3U
 #EXTINF:-1 tvg-name="CCTV1" group-title="央视频道",CCTV-1 综合
 http://125.40.199.223:8092/hls/1/index.m3u8
 #EXTINF:-1 tvg-name="CCTV2" group-title="央视频道",CCTV-2 财经
@@ -33,6 +25,8 @@ http://125.40.199.223:8092/hls/11/index.m3u8
 http://125.40.199.223:8092/hls/12/index.m3u8
 #EXTINF:-1 tvg-name="CCTV13" group-title="央视频道",CCTV-13 新闻
 http://125.40.199.223:8092/hls/13/index.m3u8
+#EXTINF:-1 tvg-name="CCTV14" group-title="央视频道",CCTV-14 少儿
+http://125.40.199.223:8092/hls/14/index.m3u8
 #EXTINF:-1 tvg-name="CCTV15" group-title="央视频道",CCTV-15 音乐
 http://125.40.199.223:8092/hls/15/index.m3u8
 #EXTINF:-1 tvg-name="CCTV17" group-title="央视频道",CCTV-17 农业农村
@@ -353,6 +347,12 @@ http://122.114.131.154:4060/hls/30/index.m3u8
 http://122.114.131.154:4060/hls/31/index.m3u8
 #EXTINF:-1 tvg-name="动作影院" group-title="其它频道",动作影院
 http://122.114.131.154:4060/hls/32/index.m3u8
+#EXTINF:-1 tvg-name="北京卡酷少儿" group-title="其它频道",北京卡酷少儿
+http://122.114.131.154:4060/hls/33/index.m3u8
+#EXTINF:-1 tvg-name="湖南金鹰卡通" group-title="其它频道",湖南金鹰卡通
+http://122.114.131.154:4060/hls/34/index.m3u8
+#EXTINF:-1 tvg-name="嘉佳卡通" group-title="其它频道",嘉佳卡通
+http://122.114.131.154:4060/hls/35/index.m3u8
 #EXTINF:-1 tvg-name="经典电影" group-title="其它频道",经典电影
 http://122.114.131.154:4060/hls/36/index.m3u8
 #EXTINF:-1 tvg-name="喜剧影院" group-title="其它频道",喜剧影院
