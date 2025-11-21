@@ -1,6 +1,5 @@
-少儿,#genre#
+二毛的少儿,#genre#
 CCTV14,http://183.7.148.240:8086/hls/15/index.m3u8
-CCTV14, http://183.234.97.47:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-14H265_4000.m3u8$刚哥无敌
 北京卡酷少儿,http://114.242.62.109:888/hls/26/index.m3u8
 嘉佳卡通,http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=wasusyt&Contentid=6000000003000025508&livemode=1&stbId=toShengfen&mode=1&$2M SD
 嘉佳卡通,webview://https://www.gdtv.cn/tvChannelDetail/66
