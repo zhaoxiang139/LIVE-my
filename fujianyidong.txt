@@ -1,17 +1,24 @@
 北京少儿频道,#genre#
-上海哈哈炫动,http://aikuai.xuran1983.cn:2082/bjyd/stream/3221227025/1.m3u8?4M576
-上海哈哈炫动,http://aikuai.xuran1983.cn:2082/bjyd/stream/3221226931/1.m3u8?576
-上海纪实人文,http://aikuai.xuran1983.cn:2082/bjyd/stream/3221226571/1.m3u8?8M1080
+CCTV14,http://aikuai.xuran1983.cn:2082/bjyd/stream/3221226947/1.m3u8?4M1080
+CCTV14,http://aikuai.xuran1983.cn:2082/bjyd/stream/3221226229/1.m3u8?4M1080
+CCTV14,http://aikuai.xuran1983.cn:2082/bjyd/stream/3221226461/1.m3u8?8M1080
+CCTV14,http://aikuai.xuran1983.cn:2082/bjyd/stream/3221226904/1.m3u8?720
+CCTV14,http://aikuai.xuran1983.cn:2082/bjyd/stream/3221226445/1.m3u8?576
 北京卡酷少儿,http://aikuai.xuran1983.cn:2082/bjyd/stream/3221226558/1.m3u8?8M1080
 北京卡酷少儿,http://aikuai.xuran1983.cn:2082/bjyd/stream/3221227024/1.m3u8?4M576
 北京卡酷少儿,http://aikuai.xuran1983.cn:2082/bjyd/stream/3221226511/1.m3u8?576
 北京卡酷少儿,http://aikuai.xuran1983.cn:2082/bjyd/stream/3221226927/1.m3u8?576
-广东嘉佳卡通,http://aikuai.xuran1983.cn:2082/bjyd/stream/3221226539/1.m3u8?576
+湖南金鹰卡通,http://aikuai.xuran1983.cn:2082/bjyd/stream/3221226576/1.m3u8?576
 江苏优漫卡通,http://aikuai.xuran1983.cn:2082/bjyd/stream/3221227007/1.m3u8?4M576
 江苏优漫卡通,http://aikuai.xuran1983.cn:2082/bjyd/stream/3221226932/1.m3u8?576
-湖南金鹰纪实,http://aikuai.xuran1983.cn:2082/bjyd/stream/3221226572/1.m3u8?8M1080
-湖南金鹰卡通,http://aikuai.xuran1983.cn:2082/bjyd/stream/3221226576/1.m3u8?576
+广东嘉佳卡通,http://aikuai.xuran1983.cn:2082/bjyd/stream/3221226539/1.m3u8?576
+上海哈哈炫动,http://aikuai.xuran1983.cn:2082/bjyd/stream/3221227025/1.m3u8?4M576
+上海哈哈炫动,http://aikuai.xuran1983.cn:2082/bjyd/stream/3221226931/1.m3u8?576
 黑莓动画,http://aikuai.xuran1983.cn:2082/bjyd/stream/3221226935/1.m3u8?4M1080
+内蒙古少儿,http://play1-qk.nmtv.cn/live/1686560464515368.m3u8
+浙江少儿,http://ali-vl.cztv.com/channels/lantian/channel008/360p.m3u8?a=1000&amp;d=83b26bacf5397c013aff782b2c4287d0&amp;k=c99bdac76cff6ddc27e750ba689b7d5b&amp;t=1704368408
+浙江少儿,http://123.159.33.171:85/tsfile/live/1004_1.m3u8?key=txiptv
+浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 
 央视频道,#genre#
 CCTV1,http://aikuai.xuran1983.cn:2082/bjyd/stream/3221226933/1.m3u8?4M1080
@@ -74,11 +81,6 @@ CCTV13,http://aikuai.xuran1983.cn:2082/bjyd/stream/3221226316/1.m3u8?4M1080
 CCTV13,http://aikuai.xuran1983.cn:2082/bjyd/stream/3221226568/1.m3u8?8M1080
 CCTV13,http://aikuai.xuran1983.cn:2082/bjyd/stream/3221226339/1.m3u8?720
 CCTV13,http://aikuai.xuran1983.cn:2082/bjyd/stream/3221226446/1.m3u8?576
-CCTV14,http://aikuai.xuran1983.cn:2082/bjyd/stream/3221226947/1.m3u8?4M1080
-CCTV14,http://aikuai.xuran1983.cn:2082/bjyd/stream/3221226229/1.m3u8?4M1080
-CCTV14,http://aikuai.xuran1983.cn:2082/bjyd/stream/3221226461/1.m3u8?8M1080
-CCTV14,http://aikuai.xuran1983.cn:2082/bjyd/stream/3221226904/1.m3u8?720
-CCTV14,http://aikuai.xuran1983.cn:2082/bjyd/stream/3221226445/1.m3u8?576
 CCTV15,http://aikuai.xuran1983.cn:2082/bjyd/stream/3221226333/1.m3u8?4M1080
 CCTV15,http://aikuai.xuran1983.cn:2082/bjyd/stream/3221226460/1.m3u8?8M1080
 CCTV15,http://aikuai.xuran1983.cn:2082/bjyd/stream/3221226910/1.m3u8?720
@@ -287,6 +289,8 @@ NewTV超级电视剧,http://aikuai.xuran1983.cn:2082/bjyd/stream/3221226979/1.m3
 NewTV超级电视剧,http://aikuai.xuran1983.cn:2082/bjyd/stream/3221226368/1.m3u8?8M1080
 
 儿童频道,#genre#
+湖南金鹰纪实,http://aikuai.xuran1983.cn:2082/bjyd/stream/3221226572/1.m3u8?8M1080
+上海纪实人文,http://aikuai.xuran1983.cn:2082/bjyd/stream/3221226571/1.m3u8?8M1080
 哒啵电竞,http://aikuai.xuran1983.cn:2082/bjyd/stream/3221226889/1.m3u8?4M1080
 哒啵赛事,http://aikuai.xuran1983.cn:2082/bjyd/stream/3221226938/1.m3u8?4M1080
 中国交通,http://aikuai.xuran1983.cn:2082/bjyd/stream/3221226891/1.m3u8?8M1080
