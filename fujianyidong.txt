@@ -1,4 +1,4 @@
-二毛少儿频道,#genre#
+北京少儿频道,#genre#
 上海哈哈炫动,http://aikuai.xuran1983.cn:2082/bjyd/stream/3221227025/1.m3u8?4M576
 上海哈哈炫动,http://aikuai.xuran1983.cn:2082/bjyd/stream/3221226931/1.m3u8?576
 上海纪实人文,http://aikuai.xuran1983.cn:2082/bjyd/stream/3221226571/1.m3u8?8M1080
