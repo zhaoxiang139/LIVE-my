@@ -220,6 +220,25 @@ CETV4,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225748/1.m3u8
 潞州,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225964/1.m3u8
 稷山,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226196/1.m3u8
 
+山西文体生活,http://183.184.47.145:8001/rtp/226.0.2.16:8040
+山西文体生活,http://vapi.91kds.cc/live1/sxtv.m3u8?apiKey=73c963d13814ce7d0e4743c5e7d033cc&id=sxgg
+山西文体生活,http://vapi.91kds.cc/live1/udp.m3u8?ixp=sanxi-lt&apiKey=73c963d13814ce7d0e4743c5e7d033cc&id=226.0.2.16:8040
+山西文体生活,https://live.lalifeier.eu.org/sxrtv/sxwtsh.m3u8?t=1745796321&key=5d07585f428e3bbbe66ef7a534c8db1e
+山西文体生活,https://live.lalifeier.eu.org/sxrtv/sxwtsh.m3u8?t=1746307365&key=1cf53f641a43923de396153d3e9e40b6
+山西文体生活,https://live.lalifeier.eu.org/sxrtv/sxwtsh.m3u8?t=1746393735&key=ef71ca0281e5b344d896cad03a642087
+山西社会与法治,http://183.184.47.145:8001/rtp/226.0.2.238:9816
+山西社会与法治,http://vapi.91kds.cc/live1/sxtv.m3u8?apiKey=73c963d13814ce7d0e4743c5e7d033cc&id=sxkj
+山西社会与法治,https://live.lalifeier.eu.org/sxrtv/sxshfz.m3u8?t=1745796321&key=71bbd0d7dc1eb84139ebea659e164651
+山西社会与法治,https://live.lalifeier.eu.org/sxrtv/sxshfz.m3u8?t=1746307365&key=9694e5e21a889c83c54bbf66c0e524a0
+山西社会与法治,https://live.lalifeier.eu.org/sxrtv/sxshfz.m3u8?t=1746393735&key=cf4f8ab07efd070291584465074e9386
+山西经济与科技,http://vapi.91kds.cc/live1/udp.m3u8?ixp=sanxi-lt&apiKey=73c963d13814ce7d0e4743c5e7d033cc&id=226.0.2.236:9800
+山西经济与科技,http://vapi.91kds.cc/live1/sxtv.m3u8?apiKey=73c963d13814ce7d0e4743c5e7d033cc&id=sxjj
+山西黄河,http://vapi.91kds.cc/live1/sxtv.m3u8?apiKey=73c963d13814ce7d0e4743c5e7d033cc&id=sxhh
+山西黄河,http://vapi.91kds.cc/live1/udp.m3u8?ixp=sanxi-lt&apiKey=73c963d13814ce7d0e4743c5e7d033cc&id=226.0.2.235:9792
+大同教育,http://vapi.91kds.cc/live1/udp.m3u8?ixp=sanxi-lt&apiKey=73c963d13814ce7d0e4743c5e7d033cc&id=226.0.2.232:9772
+太原教育,http://vapi.91kds.cc/live1/udp.m3u8?ixp=sanxi-lt&apiKey=73c963d13814ce7d0e4743c5e7d033cc&id=226.0.2.206:9560
+阳泉科教,http://vapi.91kds.cc/live1/udp.m3u8?ixp=sanxi-lt&apiKey=73c963d13814ce7d0e4743c5e7d033cc&id=226.0.2.234:9784
+阳泉综合,http://vapi.91kds.cc/live1/udp.m3u8?ixp=sanxi-lt&apiKey=73c963d13814ce7d0e4743c5e7d033cc&id=226.0.2.233:9776
 内蒙频道,#genre#
 内蒙新闻综合,http://play1-qk.nmtv.cn/live/1686560423879174.m3u8
 内蒙经济生活,http://play1-qk.nmtv.cn/live/1686562470947181.m3u8
