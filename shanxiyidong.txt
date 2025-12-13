@@ -290,6 +290,17 @@ CETV4,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225748/1.m3u8
 吴京,http://cfss.cc/cdn/hy/11602041.m3u8
 强森,http://cfss.cc/cdn/hy/21059581.m3u8
 
+电子琴音乐,#genre#
+电子琴纯音乐《故乡草原》,https://txmov2.a.kwimgs.com/bs3/video-hls/5228397870260569658_4b95885b361cc7a5_5924_hlsb.m3u8
+电子琴串烧音乐,https://txmov2.a.kwimgs.com/bs3/video-hls/5206442727988655400_hlsb.m3u8
+19首电子琴串烧音乐,https://txmov2.a.kwimgs.com/bs3/video-hls/5222205327114394626_hlsb.m3u8
+动感电子琴串烧音乐,https://txmov2.a.kwimgs.com/bs3/video-hls/5254011998541555294_hlsb.m3u8
+电子琴串烧音乐,https://txmov2.a.kwimgs.com/bs3/video-hls/5197998477615494272_hlsb.m3u8
+顶级DJ电子琴626,https://txmov2.a.kwimgs.com/bs2/photo-video-mz/5242471572636782067_7f8c34499ac87c06_14831061085680115_hd15.mp4
+经典动感电子琴串烧纯音乐,https://txmov2.a.kwimgs.com/bs3/video-hls/5206442727988655400_hlsb.m3u8
+双电子琴连奏经典老歌,https://txmov2.a.kwimgs.com/bs3/video-hls/5242753018899537111_hlsb.m3u8
+电子琴DJ经典老歌,https://txmov2.a.kwimgs.com/upic/2020/06/17/12/BMjAyMDA2MTcxMjU3MjVfNTAyNzg4MTc0XzMwNjQyMzM1ODcyXzJfMw==_b_B86183b2504ae158cb27410ecd2b7532a.mp4
+
 热门音乐,#genre#
 新送情郎,https://vd3.bdstatic.com/mda-nj6dfpnkqxfgngr3/1080p/cae_h264/1665146579148529091/mda-nj6dfpnkqxfgngr3.mp4
 敬请笑纳,https://vdse.bdstatic.com//7df2102f0861ae3d79117afcf79a884d.mp4
