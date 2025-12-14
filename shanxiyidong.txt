@@ -256,6 +256,12 @@ CETV4,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225748/1.m3u8
 苏州生活资讯,https://live-auth.51kandianshi.com/szgd/csztv5.m3u8
 
 山西广播,#genre#
+朔州新闻综合广播,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=x02yij&tk=jcmngPC64ClK
+朔州交通音乐广播,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=Y29gmY&tk=jcmngPC64ClK
+朔州农村广播,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=gvBQBV&tk=jcmngPC64ClK
+大同经济文艺广播,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=mzb49P&tk=jcmngPC64ClK
+大同交通广播,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=JE6Bi5&tk=jcmngPC64ClK
+大同新闻综合广播,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=qH7FXQ&tk=jcmngPC64ClK
 中国交通广播（山西）,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=6ENbda&tk=jcmngPC64ClK
 山西故事广播,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=f9A5yR&tk=jcmngPC64ClK
 山西经济广播,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=bR3Cud&tk=jcmngPC64ClK
@@ -270,17 +276,11 @@ CETV4,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225748/1.m3u8
 太原老年之声,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=4ihOJe&tk=jcmngPC64ClK
 太原新闻综合广播,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=C7l5dW&tk=jcmngPC64ClK
 太原音乐广播,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=93M31J&tk=jcmngPC64ClK
-大同经济文艺广播,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=mzb49P&tk=jcmngPC64ClK
-大同交通广播,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=JE6Bi5&tk=jcmngPC64ClK
-大同新闻综合广播,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=qH7FXQ&tk=jcmngPC64ClK
 晋城交通广播,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=EkDBnO&tk=jcmngPC64ClK
 晋城新闻综合广播,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=4icIcw&tk=jcmngPC64ClK
 临汾交通文艺广播,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=mP357Z&tk=jcmngPC64ClK
 临汾音乐广播,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=3FOK0l&tk=jcmngPC64ClK
 临汾综合广播,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=Gh1eem&tk=jcmngPC64ClK
-朔州交通音乐广播,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=Y29gmY&tk=jcmngPC64ClK
-朔州农村广播,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=gvBQBV&tk=jcmngPC64ClK
-朔州新闻综合广播,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=x02yij&tk=jcmngPC64ClK
 阳泉交通广播,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=e73rjq&tk=jcmngPC64ClK
 阳泉最爱音乐台,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=uSwVtX&tk=jcmngPC64ClK
 阳泉综合广播,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=461WR5&tk=jcmngPC64ClK
