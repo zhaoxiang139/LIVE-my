@@ -255,6 +255,16 @@ CETV4,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225748/1.m3u8
 苏州电影娱乐,https://live-auth.51kandianshi.com/szgd/csztv4.m3u8
 苏州生活资讯,https://live-auth.51kandianshi.com/szgd/csztv5.m3u8
 
+北京文艺,http://114.242.62.109:888/hls/18/index.m3u8
+北京纪实科教,http://114.242.62.109:888/hls/19/index.m3u8
+北京影视,http://114.242.62.109:888/hls/20/index.m3u8
+北京财经,http://114.242.62.109:888/hls/21/index.m3u8
+北京体育休闲,http://114.242.62.109:888/hls/22/index.m3u8
+北京生活,http://114.242.62.109:888/hls/23/index.m3u8
+北京新闻,http://114.242.62.109:888/hls/25/index.m3u8
+北京卡酷少儿,http://114.242.62.109:888/hls/26/index.m3u8
+北京国际,http://114.242.62.109:888/hls/27/index.m3u8
+
 广州综合频道,http://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=c8dbe86d6f86eb1a21999ab479fd5667&txTime=18d3c4690e8 
 广州新闻频道,http://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=d2c2db0b598c02ec1b5623728434d367&txTime=18d57929bd3 
 广州法治频道,http://tencentplay.gztv.com/live/fazhi.m3u8?txSecret=3e84cd8eba844b5dc2150612295c7a52&txTime=18d578f4493 
