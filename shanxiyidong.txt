@@ -264,6 +264,8 @@ CETV4,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225748/1.m3u8
 广州新闻,http://tencentplaygzrb01.gztv.com/live/xinwen.m3u8 
 广州综合,http://tencentplaygzrb01.gztv.com/live/zonghes.m3u8
 
+书画频道,http://114.251.103.114:8234/live_hls/hdmi.m3u8
+书画频道,http://114.251.103.114:8233//live_hls/hdmi.m3u8
 
 电子琴音乐,#genre#
 电子琴纯音乐《故乡草原》,https://txmov2.a.kwimgs.com/bs3/video-hls/5228397870260569658_4b95885b361cc7a5_5924_hlsb.m3u8
