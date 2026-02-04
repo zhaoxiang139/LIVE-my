@@ -51,12 +51,7 @@ CCTV17,http://111.170.157.210:1081/?id=673168256&auth=95d4c11f9a4bc430bf05d5da4a
 睛彩广场舞,http://221.181.100.64/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011523&livemode=1&stbId=m
 
 四川科教,http://182.150.115.21:8030/pcgacg/pcgacg_0.m3u8
-四川长宁综合,http://cnpull.sccnfb.com/live/123456.m3u8?zsicd
-四川自贡综合,http://110.189.153.160:1001/zhpd.flv?zsicd
-四川甘孜综合,http://tv.drs.ganzitv.com:8100/channellive/gztv.flv?zsicd
-泸州科技教育,video://https://www.luzhoubs.com/lztv3/index.html
 四川泸州科教,http://m3u8.channel.luzhoubs.com/nmip-media/channellive/channel103074/playlist.m3u8
-四川金川乡村,http://live.jinchuanrmt.com:90/live/jcxc.m3u8?zsicd
 四川泸州新闻,http://m3u8.channel.luzhoubs.com/nmip-media/channellive/channel106011/playlist.m3u8
 四川达州新闻,http://tv.drs.dzxw.net:80/channellive/xwzhpd-dz1.flv
 四川广安公共频道,http://live1.gatv.com.cn:85/live/GGPD_ggpdzm.m3u8
