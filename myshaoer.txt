@@ -27,6 +27,7 @@ CCTV14,http://zzssw01.55555.io:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=
 卡酷动画|飞扬直播,http://39.165.39.49:19901/tsfile/live/1158_1.m3u8?key=txiptv&playlive=0&authid=0
 炫动卡通|飞扬直播,http://39.165.39.49:19901/tsfile/live/1159_1.m3u8?key=txiptv&playlive=0&authid=0
 优漫卡通|飞扬直播,http://39.165.39.49:19901/tsfile/live/1092_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV14|飞扬直播,http://39.165.39.49:19901/tsfile/live/1085_1.m3u8?key=txiptv&playlive=0&authid=0
 
 移动央卫,#genre#
 CCTV1|飞扬直播,http://39.165.39.49:19901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -42,7 +43,6 @@ CCTV10|飞扬直播,http://39.165.39.49:19901/tsfile/live/1010_1.m3u8?key=txiptv
 CCTV11|飞扬直播,http://39.165.39.49:19901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV12|飞扬直播,http://39.165.39.49:19901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV13|飞扬直播,http://39.165.39.49:19901/tsfile/live/1084_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV14|飞扬直播,http://39.165.39.49:19901/tsfile/live/1085_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV15|飞扬直播,http://39.165.39.49:19901/tsfile/live/1086_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV17|飞扬直播,http://39.165.39.49:19901/tsfile/live/1088_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV5+|飞扬直播,http://39.165.39.49:19901/tsfile/live/1089_1.m3u8?key=txiptv&playlive=0&authid=0
