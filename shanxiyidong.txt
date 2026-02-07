@@ -17,6 +17,7 @@ CCTV14,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226130/1.m3u8
 浙江少儿,http://123.159.33.171:85/tsfile/live/1004_1.m3u8?key=txiptv
 浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 
+CCTV14|飞扬直播,http://39.165.39.49:19901/tsfile/live/1085_1.m3u8?key=txiptv&playlive=0&authid=0
 卡酷动画|飞扬直播,http://39.165.39.49:19901/tsfile/live/1158_1.m3u8?key=txiptv&playlive=0&authid=0
 金鹰卡通|飞扬直播,http://39.165.39.49:19901/tsfile/live/1156_1.m3u8?key=txiptv&playlive=0&authid=0
 嘉佳卡通|飞扬直播,http://39.165.39.49:19901/tsfile/live/1157_1.m3u8?key=txiptv&playlive=0&authid=0
