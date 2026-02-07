@@ -22,6 +22,12 @@ CCTV14,http://zzssw01.55555.io:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=
 黑龙江少儿,http://shuangyashan.coccc.online:65000/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
 河北少儿,http://hbhy205u8.ufyct.com:1088/hls/30/index.m3u8
 
+金鹰卡通|飞扬直播,http://39.165.39.49:19901/tsfile/live/1156_1.m3u8?key=txiptv&playlive=0&authid=0
+嘉佳卡通|飞扬直播,http://39.165.39.49:19901/tsfile/live/1157_1.m3u8?key=txiptv&playlive=0&authid=0
+卡酷动画|飞扬直播,http://39.165.39.49:19901/tsfile/live/1158_1.m3u8?key=txiptv&playlive=0&authid=0
+炫动卡通|飞扬直播,http://39.165.39.49:19901/tsfile/live/1159_1.m3u8?key=txiptv&playlive=0&authid=0
+优漫卡通|飞扬直播,http://39.165.39.49:19901/tsfile/live/1092_1.m3u8?key=txiptv&playlive=0&authid=0
+
 移动央卫,#genre#
 CCTV1|飞扬直播,http://39.165.39.49:19901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV2|飞扬直播,http://39.165.39.49:19901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -53,11 +59,6 @@ CCTV5+|飞扬直播,http://39.165.39.49:19901/tsfile/live/1089_1.m3u8?key=txiptv
 深圳卫视|飞扬直播,http://39.165.39.49:19901/tsfile/live/1141_1.m3u8?key=txiptv&playlive=0&authid=0
 湖北卫视|飞扬直播,http://39.165.39.49:19901/tsfile/live/1143_1.m3u8?key=txiptv&playlive=0&authid=0
 东南卫视|飞扬直播,http://39.165.39.49:19901/tsfile/live/1149_1.m3u8?key=txiptv&playlive=0&authid=0
-金鹰卡通|飞扬直播,http://39.165.39.49:19901/tsfile/live/1156_1.m3u8?key=txiptv&playlive=0&authid=0
-嘉佳卡通|飞扬直播,http://39.165.39.49:19901/tsfile/live/1157_1.m3u8?key=txiptv&playlive=0&authid=0
-卡酷动画|飞扬直播,http://39.165.39.49:19901/tsfile/live/1158_1.m3u8?key=txiptv&playlive=0&authid=0
-炫动卡通|飞扬直播,http://39.165.39.49:19901/tsfile/live/1159_1.m3u8?key=txiptv&playlive=0&authid=0
-优漫卡通|飞扬直播,http://39.165.39.49:19901/tsfile/live/1092_1.m3u8?key=txiptv&playlive=0&authid=0
 文体旅游|飞扬直播,http://39.165.39.49:19901/tsfile/live/1094_1.m3u8?key=txiptv&playlive=0&authid=0
 都市频道|飞扬直播,http://39.165.39.49:19901/tsfile/live/1106_1.m3u8?key=txiptv&playlive=0&authid=0
 民生频道|飞扬直播,http://39.165.39.49:19901/tsfile/live/1109_1.m3u8?key=txiptv&playlive=0&authid=0
