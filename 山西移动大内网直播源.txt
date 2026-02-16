@@ -222,6 +222,7 @@ CETV4,http://sxydajtvlive.sx.chinamobile.com/PLTV/88888888/224/3221226305/1.m3u8
 CETN1,http://sxydajtvlive.sx.chinamobile.com/PLTV/88888888/224/3221225792/1.m3u8?icpid=88888888&from=1&hms_devid=&vqe=3
 
 山西,#genre#
+朔州1,http://sxydajtvlive.sx.chinamobile.com/PLTV/88888888/224/3221226508/1.m3u8?icpid=88888888&from=1&hms_devid=&vqe=3
 山西卫视,http://sxydajtvlive.sx.chinamobile.com/PLTV/88888888/224/3221225733/1.m3u8?icpid=88888888&from=1&hms_devid=&vqe=3
 山西卫视,http://sxydajtvlive.sx.chinamobile.com/PLTV/88888888/224/3221225844/1.m3u8?icpid=88888888&from=1&hms_devid=&vqe=3
 山西卫视,http://sxydajtvlive.sx.chinamobile.com/PLTV/88888888/224/3221225940/1.m3u8?icpid=88888888&from=1&hms_devid=&vqe=3
@@ -240,7 +241,6 @@ CETN1,http://sxydajtvlive.sx.chinamobile.com/PLTV/88888888/224/3221225792/1.m3u8
 山西经济,http://sxydajtvlive.sx.chinamobile.com/PLTV/88888888/224/3221226147/1.m3u8?icpid=88888888&from=1&hms_devid=&vqe=3
 山西经济,http://sxydajtvlive.sx.chinamobile.com/PLTV/88888888/224/3221226242/1.m3u8?icpid=88888888&from=1&hms_devid=&vqe=3
 太原1,http://sxydajtvlive.sx.chinamobile.com/PLTV/88888888/224/3221226502/1.m3u8?icpid=88888888&from=1&hms_devid=&vqe=3
-朔州1,http://sxydajtvlive.sx.chinamobile.com/PLTV/88888888/224/3221226508/1.m3u8?icpid=88888888&from=1&hms_devid=&vqe=3
 忻州综合,http://sxydajtvlive.sx.chinamobile.com/PLTV/88888888/224/3221226315/1.m3u8?icpid=88888888&from=1&hms_devid=&vqe=3
 阳泉新闻,http://sxydajtvlive.sx.chinamobile.com/PLTV/88888888/224/3221226347/1.m3u8?icpid=88888888&from=1&hms_devid=&vqe=3
 吕梁1,http://sxydajtvlive.sx.chinamobile.com/PLTV/88888888/224/3221226350/1.m3u8?icpid=88888888&from=1&hms_devid=&vqe=3
@@ -267,6 +267,8 @@ CETN1,http://sxydajtvlive.sx.chinamobile.com/PLTV/88888888/224/3221225792/1.m3u8
 晋城新闻综合,http://sxydajtvlive.sx.chinamobile.com/PLTV/88888888/224/3221226344/1.m3u8?icpid=88888888&from=1&hms_devid=&vqe=3
 霍州,http://sxydajtvlive.sx.chinamobile.com/PLTV/88888888/224/3221225979/1.m3u8?icpid=88888888&from=1&hms_devid=&vqe=3
 绛县,http://sxydajtvlive.sx.chinamobile.com/PLTV/88888888/224/3221226493/1.m3u8?icpid=88888888&from=1&hms_devid=&vqe=3
+山西广播,#genre#
+
 MF88.0山西交通广播,http://sxydajtvlive.sx.chinamobile.com/PLTV/88888888/224/3221226185/1.m3u8?icpid=88888888&from=1&hms_devid=&vqe=3
 FM88.0山西交通广播,http://sxydajtvlive.sx.chinamobile.com/PLTV/88888888/224/3221226415/1.m3u8?icpid=88888888&from=1&hms_devid=&vqe=3
 FM88.6山西故事广播,http://sxydajtvlive.sx.chinamobile.com/PLTV/88888888/224/3221226236/1.m3u8?icpid=88888888&from=1&hms_devid=&vqe=3
