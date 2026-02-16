@@ -267,8 +267,8 @@ CETN1,http://sxydajtvlive.sx.chinamobile.com/PLTV/88888888/224/3221225792/1.m3u8
 晋城新闻综合,http://sxydajtvlive.sx.chinamobile.com/PLTV/88888888/224/3221226344/1.m3u8?icpid=88888888&from=1&hms_devid=&vqe=3
 霍州,http://sxydajtvlive.sx.chinamobile.com/PLTV/88888888/224/3221225979/1.m3u8?icpid=88888888&from=1&hms_devid=&vqe=3
 绛县,http://sxydajtvlive.sx.chinamobile.com/PLTV/88888888/224/3221226493/1.m3u8?icpid=88888888&from=1&hms_devid=&vqe=3
-山西广播,#genre#
 
+山西广播,#genre#
 MF88.0山西交通广播,http://sxydajtvlive.sx.chinamobile.com/PLTV/88888888/224/3221226185/1.m3u8?icpid=88888888&from=1&hms_devid=&vqe=3
 FM88.0山西交通广播,http://sxydajtvlive.sx.chinamobile.com/PLTV/88888888/224/3221226415/1.m3u8?icpid=88888888&from=1&hms_devid=&vqe=3
 FM88.6山西故事广播,http://sxydajtvlive.sx.chinamobile.com/PLTV/88888888/224/3221226236/1.m3u8?icpid=88888888&from=1&hms_devid=&vqe=3
