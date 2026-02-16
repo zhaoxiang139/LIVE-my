@@ -14,6 +14,7 @@ CCTV14,http://sxydajtvlive.sx.chinamobile.com/PLTV/88888888/224/3221226243/1.m3u
 嘉佳卡通,http://sxydajtvlive.sx.chinamobile.com/PLTV/88888888/224/3221225819/1.m3u8?icpid=88888888&from=1&hms_devid=&vqe=3
 嘉佳卡通,http://sxydajtvlive.sx.chinamobile.com/PLTV/88888888/224/3221226159/1.m3u8?icpid=88888888&from=1&hms_devid=&vqe=3
 嘉佳卡通,http://sxydajtvlive.sx.chinamobile.com/PLTV/88888888/224/3221226300/1.m3u8?icpid=88888888&from=1&hms_devid=&vqe=3
+NewTV黑莓动画,http://sxydajtvlive.sx.chinamobile.com/PLTV/88888888/224/3221225772/1.m3u8?icpid=88888888&from=1&hms_devid=&vqe=3
 
 央视,#genre#
 CCTV1,http://sxydajtvlive.sx.chinamobile.com/PLTV/88888888/224/3221225655/1.m3u8?icpid=88888888&from=1&hms_devid=&vqe=3
@@ -297,7 +298,6 @@ CCTV中视购物,http://sxydajtvlive.sx.chinamobile.com/PLTV/88888888/224/322122
 NewTV,#genre#
 
 NewTV金牌综艺,http://sxydajtvlive.sx.chinamobile.com/PLTV/88888888/224/3221225769/1.m3u8?icpid=88888888&from=1&hms_devid=&vqe=3
-NewTV黑莓动画,http://sxydajtvlive.sx.chinamobile.com/PLTV/88888888/224/3221225772/1.m3u8?icpid=88888888&from=1&hms_devid=&vqe=3
 NewTV黑莓电影,http://sxydajtvlive.sx.chinamobile.com/PLTV/88888888/224/3221225775/1.m3u8?icpid=88888888&from=1&hms_devid=&vqe=3
 NewTV军事评论,http://sxydajtvlive.sx.chinamobile.com/PLTV/88888888/224/3221225778/1.m3u8?icpid=88888888&from=1&hms_devid=&vqe=3
 NewTV哒啵赛事,http://sxydajtvlive.sx.chinamobile.com/PLTV/88888888/224/3221225781/1.m3u8?icpid=88888888&from=1&hms_devid=&vqe=3
