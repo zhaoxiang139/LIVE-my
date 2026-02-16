@@ -2553,6 +2553,24 @@ ELTA生活英語台,http://xtvantsc.xyz/litv_ts.php?id=litv-longturn20
 台灣戲劇台,http://xtvantsc.xyz/litv_ts.php?id=litv-longturn22
 寰宇財經台,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv158
 
+山西广播,#genre#
+MF88.0山西交通广播,http://sxydajtvlive.sx.chinamobile.com/PLTV/88888888/224/3221226185/1.m3u8?icpid=88888888&from=1&hms_devid=&vqe=3
+FM88.0山西交通广播,http://sxydajtvlive.sx.chinamobile.com/PLTV/88888888/224/3221226415/1.m3u8?icpid=88888888&from=1&hms_devid=&vqe=3
+FM88.6山西故事广播,http://sxydajtvlive.sx.chinamobile.com/PLTV/88888888/224/3221226236/1.m3u8?icpid=88888888&from=1&hms_devid=&vqe=3
+FM88.6山西故事广播,http://sxydajtvlive.sx.chinamobile.com/PLTV/88888888/224/3221226370/1.m3u8?icpid=88888888&from=1&hms_devid=&vqe=3
+FM90.4山西综合广播,http://sxydajtvlive.sx.chinamobile.com/PLTV/88888888/224/3221226364/1.m3u8?icpid=88888888&from=1&hms_devid=&vqe=3
+FM90.4山西综合广播,http://sxydajtvlive.sx.chinamobile.com/PLTV/88888888/224/3221226418/1.m3u8?icpid=88888888&from=1&hms_devid=&vqe=3
+FM94.0山西音乐广播,http://sxydajtvlive.sx.chinamobile.com/PLTV/88888888/224/3221226188/1.m3u8?icpid=88888888&from=1&hms_devid=&vqe=3
+FM94.0山西音乐广播,http://sxydajtvlive.sx.chinamobile.com/PLTV/88888888/224/3221226233/1.m3u8?icpid=88888888&from=1&hms_devid=&vqe=3
+FM95.8山西经济广播,http://sxydajtvlive.sx.chinamobile.com/PLTV/88888888/224/3221226182/1.m3u8?icpid=88888888&from=1&hms_devid=&vqe=3
+FM95.8山西经济广播,http://sxydajtvlive.sx.chinamobile.com/PLTV/88888888/224/3221226216/1.m3u8?icpid=88888888&from=1&hms_devid=&vqe=3
+FM100.9山西农村广播,http://sxydajtvlive.sx.chinamobile.com/PLTV/88888888/224/3221226367/1.m3u8?icpid=88888888&from=1&hms_devid=&vqe=3
+FM100.9山西农村广播,http://sxydajtvlive.sx.chinamobile.com/PLTV/88888888/224/3221226412/1.m3u8?icpid=88888888&from=1&hms_devid=&vqe=3
+FM101.5山西文艺广播,http://sxydajtvlive.sx.chinamobile.com/PLTV/88888888/224/3221226168/1.m3u8?icpid=88888888&from=1&hms_devid=&vqe=3
+FM101.5山西文艺广播,http://sxydajtvlive.sx.chinamobile.com/PLTV/88888888/224/3221226230/1.m3u8?icpid=88888888&from=1&hms_devid=&vqe=3
+FM105.9山西健康之声广播,http://sxydajtvlive.sx.chinamobile.com/PLTV/88888888/224/3221226171/1.m3u8?icpid=88888888&from=1&hms_devid=&vqe=3
+FM105.9山西健康之声广播,http://sxydajtvlive.sx.chinamobile.com/PLTV/88888888/224/3221226219/1.m3u8?icpid=88888888&from=1&hms_devid=&vqe=3
+
 
 
 
