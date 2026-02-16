@@ -374,28 +374,7 @@ CCTV中视购物,http://sxydajtvlive.sx.chinamobile.com/PLTV/88888888/224/322122
 
 
 我的少儿,#genre#
-CCTV14,http://btjg.net:809/hls/14/index.m3u8
-CCTV14,http://zzssw01.55555.io:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
-卡酷少儿,http://btjg.net:809/hls/49/index.m3u8
-卡酷少儿,http://zw.gaodazn.com:8092/hls/34/index.m3u8
-卡酷少儿,http://hbhy205u8.ufyct.com:1088/hls/83/index.m3u8
-卡酷少儿,http://oa.huayuzhongqin.com:1088/hls/83/index.m3u8
-卡酷少儿,http://shuangyashan.coccc.online:65000/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1&authid=0
-卡酷少儿,http://tpc.x3322.net:9901/tsfile/live/1043_1.m3u8?key=txiptv&playlive=1&authid=0
-金鹰卡通,http://btjg.net:809/hls/70/index.m3u8
-金鹰卡通,http://oa.huayuzhongqin.com:1088/hls/72/index.m3u8
-金鹰卡通,http://hbhy205u8.ufyct.com:1088/hls/72/index.m3u8
-金鹰卡通,http://shuangyashan.coccc.online:65000/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0
-金鹰卡通,http://218.94.31.154:1111/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
-佳嘉卡通,http://btjg.net:809/hls/139/index.m3u8
-佳嘉卡通,http://tpc.x3322.net:9901/tsfile/live/1046_1.m3u8?key=txiptv&playlive=1&authid=0
-黑莓动画,http://tv7.667789.cn:88/hls/79/index.m3u8
-黑莓动画,http://2323.667789.cn:88/hls/79/index.m3u8
-黑莓动画,http://123123.667789.cn:88/hls/79/index.m3u8
-少儿动画,http://hbhy205u8.ufyct.com:1088/hls/105/index.m3u8
-少儿动画,http://oa.huayuzhongqin.com:1088/hls/105/index.m3u8
 黑龙江少儿,http://shuangyashan.coccc.online:65000/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
-河北少儿,http://hbhy205u8.ufyct.com:1088/hls/30/index.m3u8
 
 金鹰卡通|飞扬直播,http://39.165.39.49:19901/tsfile/live/1156_1.m3u8?key=txiptv&playlive=0&authid=0
 嘉佳卡通|飞扬直播,http://39.165.39.49:19901/tsfile/live/1157_1.m3u8?key=txiptv&playlive=0&authid=0
