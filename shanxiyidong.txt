@@ -101,6 +101,8 @@ CETV4,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225748/1.m3u8
 广东卫视4K,http://sxydajtvlive.sx.chinamobile.com/PLTV/88888888/224/3221226335/1.m3u8?icpid=88888888&from=1&hms_devid=&vqe=3
 河北4K,https://event.pull.hebtv.com:443/live/live101.m3u8
 苏州4K,https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
+央视2026春晚4k,http://pull-hls-spe-l6.douyinliving.com/fantasy/stream-118852785363485366_uhd/index.m3u8?k=296292b41e4bcb41&t=1771319945
+央视春晚4k,https://d1--cn-gotcha204.bilivideo.com/live-bvc/766030/live_501554611_87938747_maxhdr/index.m3u8
 
 卫视频道,#genre#
 山西卫视,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225733/1.m3u8
