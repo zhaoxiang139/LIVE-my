@@ -99,9 +99,6 @@ CGTN西班牙语,http://sxydajtvlive.sx.chinamobile.com/PLTV/88888888/224/322122
 广州南国都市4K,http://tencentplaygsm.gztv.com/live/nanguodushi.m3u8
 河北4K,https://event.pull.hebtv.com:443/live/live101.m3u8
 苏州4K,https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
-峨眉电影4k,http://api.kkitv.itv888.vip:8080/streams/0558bdb0324/index.m3u8
-苏州4K,https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
-河北4K,https://event.pull.hebtv.com:443/live/live101.m3u8
 苏州修复4K,http://106.53.99.30/tv/api.php?id=sztv4k
 河北电视4K,http://106.53.99.30/tv/api.php?id=hebtv4k
 
