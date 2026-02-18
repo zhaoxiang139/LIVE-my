@@ -17,6 +17,14 @@ CCTV14,http://sxydajtvlive.sx.chinamobile.com/PLTV/88888888/224/3221226243/1.m3u
 NewTV黑莓动画,http://sxydajtvlive.sx.chinamobile.com/PLTV/88888888/224/3221225772/1.m3u8?icpid=88888888&from=1&hms_devid=&vqe=3
 大头儿子小头爸爸,http://sxydajtvlive.sx.chinamobile.com/PLTV/88888888/224/3221226194/1.m3u8?icpid=88888888&from=1&hms_devid=&vqe=3
 
+飞扬直播的少儿,#genre#
+CCTV14|飞扬直播,http://39.165.39.49:19901/tsfile/live/1085_1.m3u8?key=txiptv&playlive=0&authid=0
+卡酷动画|飞扬直播,http://39.165.39.49:19901/tsfile/live/1158_1.m3u8?key=txiptv&playlive=0&authid=0
+金鹰卡通|飞扬直播,http://39.165.39.49:19901/tsfile/live/1156_1.m3u8?key=txiptv&playlive=0&authid=0
+嘉佳卡通|飞扬直播,http://39.165.39.49:19901/tsfile/live/1157_1.m3u8?key=txiptv&playlive=0&authid=0
+炫动卡通|飞扬直播,http://39.165.39.49:19901/tsfile/live/1159_1.m3u8?key=txiptv&playlive=0&authid=0
+优漫卡通|飞扬直播,http://39.165.39.49:19901/tsfile/live/1092_1.m3u8?key=txiptv&playlive=0&authid=0
+
 央视,#genre#
 CCTV1,http://sxydajtvlive.sx.chinamobile.com/PLTV/88888888/224/3221225655/1.m3u8?icpid=88888888&from=1&hms_devid=&vqe=3
 CCTV1,http://sxydajtvlive.sx.chinamobile.com/PLTV/88888888/224/3221226032/1.m3u8?icpid=88888888&from=1&hms_devid=&vqe=3
@@ -406,7 +414,6 @@ CCTV10|飞扬直播,http://39.165.39.49:19901/tsfile/live/1010_1.m3u8?key=txiptv
 CCTV11|飞扬直播,http://39.165.39.49:19901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV12|飞扬直播,http://39.165.39.49:19901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV13|飞扬直播,http://39.165.39.49:19901/tsfile/live/1084_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV14|飞扬直播,http://39.165.39.49:19901/tsfile/live/1085_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV15|飞扬直播,http://39.165.39.49:19901/tsfile/live/1086_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV17|飞扬直播,http://39.165.39.49:19901/tsfile/live/1088_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV5+|飞扬直播,http://39.165.39.49:19901/tsfile/live/1089_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -423,11 +430,6 @@ CCTV5+|飞扬直播,http://39.165.39.49:19901/tsfile/live/1089_1.m3u8?key=txiptv
 深圳卫视|飞扬直播,http://39.165.39.49:19901/tsfile/live/1141_1.m3u8?key=txiptv&playlive=0&authid=0
 湖北卫视|飞扬直播,http://39.165.39.49:19901/tsfile/live/1143_1.m3u8?key=txiptv&playlive=0&authid=0
 东南卫视|飞扬直播,http://39.165.39.49:19901/tsfile/live/1149_1.m3u8?key=txiptv&playlive=0&authid=0
-金鹰卡通|飞扬直播,http://39.165.39.49:19901/tsfile/live/1156_1.m3u8?key=txiptv&playlive=0&authid=0
-嘉佳卡通|飞扬直播,http://39.165.39.49:19901/tsfile/live/1157_1.m3u8?key=txiptv&playlive=0&authid=0
-卡酷动画|飞扬直播,http://39.165.39.49:19901/tsfile/live/1158_1.m3u8?key=txiptv&playlive=0&authid=0
-炫动卡通|飞扬直播,http://39.165.39.49:19901/tsfile/live/1159_1.m3u8?key=txiptv&playlive=0&authid=0
-优漫卡通|飞扬直播,http://39.165.39.49:19901/tsfile/live/1092_1.m3u8?key=txiptv&playlive=0&authid=0
 文体旅游|飞扬直播,http://39.165.39.49:19901/tsfile/live/1094_1.m3u8?key=txiptv&playlive=0&authid=0
 都市频道|飞扬直播,http://39.165.39.49:19901/tsfile/live/1106_1.m3u8?key=txiptv&playlive=0&authid=0
 民生频道|飞扬直播,http://39.165.39.49:19901/tsfile/live/1109_1.m3u8?key=txiptv&playlive=0&authid=0
