@@ -391,15 +391,6 @@ CCTV中视购物,http://sxydajtvlive.sx.chinamobile.com/PLTV/88888888/224/322122
 北京新闻,http://114.242.62.109:888/hls/25/index.m3u8
 北京卡酷少儿,http://114.242.62.109:888/hls/26/index.m3u8
 北京国际,http://114.242.62.109:888/hls/27/index.m3u8
-河北卫视,http://www.sjwyp.com:4022/rtp/239.254.200.174:6000
-河北经济,http://www.sjwyp.com:4022/rtp/239.254.200.18:6000
-河北都市,http://www.sjwyp.com:4022/rtp/239.254.200.19:6000
-河北公共,http://www.sjwyp.com:4022/rtp/239.254.200.22:6000
-河北少儿,http://www.sjwyp.com:4022/rtp/239.254.200.21:6000
-河北影视,http://www.sjwyp.com:4022/rtp/239.254.200.20:6000
-河北农民,http://www.sjwyp.com:4022/rtp/239.254.200.23:6000
-河北睛彩,http://www.sjwyp.com:4022/rtp/239.254.200.27:6000
-河北杂技,http://www.sjwyp.com:4022/rtp/239.254.201.139:7203
 
 4k春晚,#genre#
 春晚1983,https://alimov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5MTRfNDAzMDAxOTlfNjYyNzMxNjcwMjBfMF8z_b_Beb3bda599f76c60c463c433ca7460153.mp4
@@ -441,7 +432,6 @@ CCTV中视购物,http://sxydajtvlive.sx.chinamobile.com/PLTV/88888888/224/322122
 春晚2020,https://alimov2.a.kwimgs.com/upic/2022/01/30/17/BMjAyMjAxMzAxNzA5NDdfNDAzMDAxOTlfNjYxNzQ2MDAyMTFfMF8z_b_B5d51d9564c5670dc66faeba20aa7af3f.mp4
 春晚2021,https://alimov2.a.kwimgs.com/upic/2022/01/30/17/BMjAyMjAxMzAxNzE4NTJfNDAzMDAxOTlfNjYxNzUzOTg3NjlfMF8z_b_Be41d9503181d7b0608a839ed401e02c2.mp4
 春晚2022,https://alimov2.a.kwimgs.com/upic/2022/02/01/11/BMjAyMjAyMDExMTEwMjNfNDAzMDAxOTlfNjYzNzA4MTk4NzNfMF8z_b_B898cc7ddd0025bf54ddb18ec1f723c84.mp4
-春晚2023,https://txmov2.a.kwimgs.com/bs3/video-hls/5251197255879398624_hlshd15.m3u8
 春晚2024,https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
 春晚2025,https://res.cctvnews.cctv.com/video/3005/record/cctv/merge1/133396667284143308839013005/8fbd6180bdef4da19f6155cf6b4652e1-4.m3u8
 春晚2026,https://v.lzcdn28.com/20260217/8616_1de9f6e5/index.m3u8
