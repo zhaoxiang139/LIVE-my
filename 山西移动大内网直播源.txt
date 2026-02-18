@@ -92,8 +92,10 @@ CGTN西班牙语,http://sxydajtvlive.sx.chinamobile.com/PLTV/88888888/224/322122
 北京卫视4K,http://sxydajtvlive.sx.chinamobile.com/PLTV/88888888/224/3221226499/1.m3u8?icpid=88888888&from=1&hms_devid=&vqe=3
 深圳卫视4K,http://sxydajtvlive.sx.chinamobile.com/PLTV/88888888/224/3221226321/1.m3u8?icpid=88888888&from=1&hms_devid=&vqe=3
 广东卫视4K,http://sxydajtvlive.sx.chinamobile.com/PLTV/88888888/224/3221226335/1.m3u8?icpid=88888888&from=1&hms_devid=&vqe=3
-央视2026春晚4k,http://pull-hls-spe-l6.douyinliving.com/fantasy/stream-118852785363485366_uhd/index.m3u8?k=296292b41e4bcb41&t=1771319945
-央视春晚4k,https://d1--cn-gotcha204.bilivideo.com/live-bvc/766030/live_501554611_87938747_maxhdr/index.m3u8
+湖南卫视4k,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
+浙江卫视4k,https://play-qukan.cztv.com/live/1758879019692345.m3u8
+河北4K,https://event.pull.hebtv.com:443/live/live101.m3u8
+苏州4K,https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
 
 卫视,#genre#
 北京卫视,http://sxydajtvlive.sx.chinamobile.com/PLTV/88888888/224/3221225856/1.m3u8?icpid=88888888&from=1&hms_devid=&vqe=3
