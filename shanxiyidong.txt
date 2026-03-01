@@ -181,6 +181,7 @@ CETV4,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225748/1.m3u8
 
 山西,#genre#
 朔州1,http://sxydajtvlive.sx.chinamobile.com/PLTV/88888888/224/3221226508/1.m3u8?icpid=88888888&from=1&hms_devid=&vqe=3
+朔州生活娱乐|飞扬直播,http://yp.qqqtv.top/1/api.php?id=%E6%9C%94%E5%B7%9E%E7%94%9F%E6%B4%BB%E5%A8%B1%E4%B9%90&auth=666858
 山西卫视,http://sxydajtvlive.sx.chinamobile.com/PLTV/88888888/224/3221225733/1.m3u8?icpid=88888888&from=1&hms_devid=&vqe=3
 山西卫视,http://sxydajtvlive.sx.chinamobile.com/PLTV/88888888/224/3221225844/1.m3u8?icpid=88888888&from=1&hms_devid=&vqe=3
 山西卫视,http://sxydajtvlive.sx.chinamobile.com/PLTV/88888888/224/3221225940/1.m3u8?icpid=88888888&from=1&hms_devid=&vqe=3
