@@ -250,6 +250,7 @@ CETN1,http://sxydajtvlive.sx.chinamobile.com/PLTV/88888888/224/3221225792/1.m3u8
 
 山西,#genre#
 朔州1,http://sxydajtvlive.sx.chinamobile.com/PLTV/88888888/224/3221226508/1.m3u8?icpid=88888888&from=1&hms_devid=&vqe=3
+怀仁综合频道【实测 1080P】,http://1yp7hc5p.live.sxmty.com/live/hls/bff8529922344209985b6e49baa9555a/efa2543628fc4a7ea93d3d6c975f77dc.m3u8
 山西卫视,http://sxydajtvlive.sx.chinamobile.com/PLTV/88888888/224/3221225733/1.m3u8?icpid=88888888&from=1&hms_devid=&vqe=3
 山西卫视,http://sxydajtvlive.sx.chinamobile.com/PLTV/88888888/224/3221225844/1.m3u8?icpid=88888888&from=1&hms_devid=&vqe=3
 山西卫视,http://sxydajtvlive.sx.chinamobile.com/PLTV/88888888/224/3221225940/1.m3u8?icpid=88888888&from=1&hms_devid=&vqe=3
@@ -294,6 +295,12 @@ CETN1,http://sxydajtvlive.sx.chinamobile.com/PLTV/88888888/224/3221225792/1.m3u8
 晋城新闻综合,http://sxydajtvlive.sx.chinamobile.com/PLTV/88888888/224/3221226344/1.m3u8?icpid=88888888&from=1&hms_devid=&vqe=3
 霍州,http://sxydajtvlive.sx.chinamobile.com/PLTV/88888888/224/3221225979/1.m3u8?icpid=88888888&from=1&hms_devid=&vqe=3
 绛县,http://sxydajtvlive.sx.chinamobile.com/PLTV/88888888/224/3221226493/1.m3u8?icpid=88888888&from=1&hms_devid=&vqe=3
+
+壶关电视台【实测 1080P】,http://zmjp3jin.live.sxmty.com/live/hls/268fe96f955d496db37fb10bb887cda9/fc196029d289449ea524a94a95379a0d.m3u8
+
+汾西综合【实测 1080P】,https://qmmqvzoz.live.sxmty.com/live/hls/f24f8a390c084386a564074c9260100c/be3fdf07606145739ab2c4b80fe0136a.m3u8
+
+太谷新闻综合【实测 1024x768】,https://p2.vzan.com/slowlive/596867413819827251/live.m3u8?zbid=1725814272&tpid=1516989100&type=0
 
 山西广播,#genre#
 MF88.0山西交通广播,http://sxydajtvlive.sx.chinamobile.com/PLTV/88888888/224/3221226185/1.m3u8?icpid=88888888&from=1&hms_devid=&vqe=3
