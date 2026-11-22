@@ -198,6 +198,7 @@ CETV4,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225748/1.m3u8
 
 山西,#genre#
 朔州1,http://sxydajtvlive.sx.chinamobile.com/PLTV/88888888/224/3221226508/1.m3u8?icpid=88888888&from=1&hms_devid=&vqe=3
+怀仁综合频道【实测 1080P】,http://1yp7hc5p.live.sxmty.com/live/hls/bff8529922344209985b6e49baa9555a/efa2543628fc4a7ea93d3d6c975f77dc.m3u8
 山西卫视,http://sxydajtvlive.sx.chinamobile.com/PLTV/88888888/224/3221225733/1.m3u8?icpid=88888888&from=1&hms_devid=&vqe=3
 山西卫视,http://sxydajtvlive.sx.chinamobile.com/PLTV/88888888/224/3221225844/1.m3u8?icpid=88888888&from=1&hms_devid=&vqe=3
 山西卫视,http://sxydajtvlive.sx.chinamobile.com/PLTV/88888888/224/3221225940/1.m3u8?icpid=88888888&from=1&hms_devid=&vqe=3
