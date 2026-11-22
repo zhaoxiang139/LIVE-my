@@ -244,6 +244,12 @@ CETV4,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225748/1.m3u8
 霍州,http://sxydajtvlive.sx.chinamobile.com/PLTV/88888888/224/3221225979/1.m3u8?icpid=88888888&from=1&hms_devid=&vqe=3
 绛县,http://sxydajtvlive.sx.chinamobile.com/PLTV/88888888/224/3221226493/1.m3u8?icpid=88888888&from=1&hms_devid=&vqe=3
 
+壶关电视台【实测 1080P】,http://zmjp3jin.live.sxmty.com/live/hls/268fe96f955d496db37fb10bb887cda9/fc196029d289449ea524a94a95379a0d.m3u8
+
+汾西综合【实测 1080P】,https://qmmqvzoz.live.sxmty.com/live/hls/f24f8a390c084386a564074c9260100c/be3fdf07606145739ab2c4b80fe0136a.m3u8
+
+太谷新闻综合【实测 1024x768】,https://p2.vzan.com/slowlive/596867413819827251/live.m3u8?zbid=1725814272&tpid=1516989100&type=0
+
 数字频道,#genre#
 金鹰纪实,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225745/1.m3u8
 精品大剧,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225766/1.m3u8
